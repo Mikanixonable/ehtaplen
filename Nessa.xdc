@@ -32,7 +32,7 @@ M>12進数の8
 
 =〈名詞〉人, 人類, 人間
 =:ヒト、ひと
--〈関連〉{velimo}獣, {etele}生物, {labo}動物, {mas}人間集団, {kunsolo}村
+-〈関連〉{velimo}獣, {etele}生物, {labo}動物, {kunsolo}村
 
 * ze
 + 2448 〈名詞〉
