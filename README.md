@@ -17,3 +17,6 @@ E> 語源
 O> 考察
 N> 文化
 -〈類〉{○}*, 関連語
+
+もふもふくん
+http://ziphil.com/other/other/11.html
