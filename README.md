@@ -1,7 +1,7 @@
 # dictionary
 制作している人工言語の辞書(シャレイア語辞典形式)
 オンライン
-https://zpdic.herokuapp.com/dictionary/74?search=&mode=equivalent&type=part
+http://zpdic.ziphil.com/dictionary/91
 
 ハイリア歴早見
 http://ziphil.com/conlang/database/3.html
