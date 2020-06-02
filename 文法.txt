@@ -4,9 +4,14 @@
 a[ä] e[e] i[i] o[o] o[o] u[u]
 ya[jä] ye[je] yo[jo] yu[ju]
 
-g[g] b[b] dz[d͡ʑ, ʒ] v[v] d[d] z[d͡z, z] sh[ʃ] r[ɹ] w[β̞] kh[kʰ, qʰ] ng[ŋ]
+子音
+p[p] t[t] k[k] f[f] s[s] h[h][x]
+b[b] d[d] g[g] m[m] n[n] l[ɾ][ɮ][ɹ][ɹ̥][ʁ]
 
-h[h] k[k] p[p] ch[t͡ɕ] f[f] t[t] ts[t͡s] s[s] l[ɾ][ɮ] m[m] x[x] n[n]
+ts[t͡s] ch[t͡ɕ] sh[ʃ][ʂ]
+z[z][d͡z] j[ʒ][d͡ʑ]
+
+y[j] w[β̞]
 
 lは舌を硬口蓋につけたまま舌と頬の間に気流を流す｢フラ｣のような音
 shの後続の母音は後舌傾向になる。
