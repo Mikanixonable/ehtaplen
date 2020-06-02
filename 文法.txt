@@ -1,11 +1,15 @@
 ラテン文字転写
 
-a[ä] i[i] u[u] o[o] y[y] e[e] ə[ə, æ]  ya[jä] yu[ju] yo[jo] ye[je] yə[jə, jæ]
+母音
+a[ä] e[e] i[i] o[o] o[o] u[u]
+ya[jä] ye[je] yo[jo] yu[ju]
 
 g[g] b[b] dz[d͡ʑ, ʒ] v[v] d[d] z[d͡z, z] sh[ʃ] r[ɹ] w[β̞] kh[kʰ, qʰ] ng[ŋ]
 
-h[h] k[k] p[p] ch[t͡ɕ] f[f] t[t] ts[t͡s] s[s] l[ɾ] m[m] x[x] n[n]
+h[h] k[k] p[p] ch[t͡ɕ] f[f] t[t] ts[t͡s] s[s] l[ɾ][ɮ] m[m] x[x] n[n]
 
+lは舌を硬口蓋につけたまま舌と頬の間に気流を流す｢フラ｣のような音
+shの後続の母音は後舌傾向になる。
 
 語順
 SVO　主語、動詞、目的語、補語
