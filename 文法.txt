@@ -1,69 +1,19 @@
 ラテン文字転写
-
-母音
-a[ä] e[e] i[i] o[o] o[o] u[u]
-ya[jä] ye[je] yo[jo] yu[ju]
-
-子音
-p[p] t[t] k[k] f[f] s[s] h[h][x]
-b[b] d[d] g[g] m[m] n[n] l[ɾ][ɮ][ɹ][ɹ̥][ʁ]
-
-ts[t͡s] ch[t͡ɕ] sh[ʃ][ʂ]
-z[z][d͡z] j[ʒ][d͡ʑ]
-
-y[j] w[β̞]
-
-lは舌を硬口蓋につけたまま舌と頬の間に気流を流す｢フラ｣のような音
-shの後続の母音は後舌傾向になる。
+ 母音
+ a[ä] e[e] i[i] o[o] u[u]
+ ya[jä] ye[je] yo[jo] yu[ju]
+ 
+ 子音
+ p[p, pʰ] t[t, tʰ] k[k, kʰ] f[f] s[s] h[h, x]
+ b[b] d[d] g[g] m[m] n[n, ŋ] l[ɾ, ɮ, ɹ, ɹ̥, ʁ]
+ 
+ ts[t͡s] ch[t͡ɕ] sh[ʃ, ʂ]
+ z[z, d͡z] j[ʒ, d͡ʑ]
+ 
+ y[j] w[β̞]
+ lは舌を硬口蓋につけたまま舌と頬の間に気流を流す｢フラ｣のような音
+ shの後続の母音は後舌傾向になる
 
 語順
-SVO　主語、動詞、目的語、補語
-NA　名詞、形容詞
-
-~a　名詞
-~i　他動詞
-~o　形容詞
-~e　自動詞
-
-名詞節の作り方
-
-niwa「魚」+ubro「赤い」 
-
-niwo ubra「赤い魚」
-
-
-
-語根
-(pn)ネッサ祖語
- (t)テバ語
-  (n)ネッサ語
-   (as)アサガ語
-   (tm)タモ語
- (l)リュネー語
- (ak)アキオック語
-
-(pn)sla：場所
- (t)sala
-  (n)sola
-   (as)sta
-   (tm)sool
- (ak)ast
-
-(pn)kun：人
- (t)ban
-  (n)pika
- (ak)okk
-
-(pn)waa：口
-
-(pn)daek：木
-
-(pn)wo：穴
-
-(pn)skun：寝る
-
-(pn)vaed：火
-
-(pn)nek：水
-
-(pn)tan：風
+ VSOC　動詞、主語、目的語、補語
+ NA　名詞、形容詞
