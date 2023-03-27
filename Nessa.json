@@ -421,19 +421,6 @@
   }, {
     "entry" : {
       "id" : 33,
-      "form" : "sis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "笑う" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 34,
       "form" : "tes"
     },
     "translations" : [ {
@@ -446,7 +433,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 35,
+      "id" : 34,
       "form" : "gis"
     },
     "translations" : [ {
@@ -459,20 +446,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 36,
-      "form" : "sis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "起きる", "発生する", "起こる", "現れる", "できる", "生まれる", "産まれる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 37,
+      "id" : 35,
       "form" : "tis"
     },
     "translations" : [ {
@@ -485,7 +459,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 38,
+      "id" : 36,
       "form" : "nus"
     },
     "translations" : [ {
@@ -498,7 +472,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 39,
+      "id" : 37,
       "form" : "nan"
     },
     "translations" : [ {
@@ -511,7 +485,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 40,
+      "id" : 38,
       "form" : "yes"
     },
     "translations" : [ {
@@ -524,7 +498,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 41,
+      "id" : 39,
       "form" : "yus"
     },
     "translations" : [ {
@@ -540,7 +514,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 42,
+      "id" : 40,
       "form" : "yan"
     },
     "translations" : [ {
@@ -553,7 +527,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 43,
+      "id" : 41,
       "form" : "kos"
     },
     "translations" : [ {
@@ -566,7 +540,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 44,
+      "id" : 42,
       "form" : "mis"
     },
     "translations" : [ {
@@ -579,7 +553,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 45,
+      "id" : 43,
       "form" : "fan"
     },
     "translations" : [ {
@@ -592,7 +566,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 46,
+      "id" : 44,
       "form" : "kes"
     },
     "translations" : [ {
@@ -605,7 +579,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 47,
+      "id" : 45,
       "form" : "bes"
     },
     "translations" : [ {
@@ -618,7 +592,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 48,
+      "id" : 46,
       "form" : "pin"
     },
     "translations" : [ {
@@ -631,7 +605,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 49,
+      "id" : 47,
       "form" : "tan"
     },
     "translations" : [ {
@@ -644,7 +618,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 50,
+      "id" : 48,
       "form" : "pon"
     },
     "translations" : [ {
@@ -657,7 +631,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 51,
+      "id" : 49,
       "form" : "his"
     },
     "translations" : [ {
@@ -670,7 +644,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 52,
+      "id" : 50,
       "form" : "hus"
     },
     "translations" : [ {
@@ -683,7 +657,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 53,
+      "id" : 51,
       "form" : "lin"
     },
     "translations" : [ {
@@ -696,7 +670,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 54,
+      "id" : 52,
       "form" : "kan"
     },
     "translations" : [ {
@@ -709,7 +683,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 55,
+      "id" : 53,
       "form" : "din"
     },
     "translations" : [ {
@@ -722,7 +696,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 56,
+      "id" : 54,
       "form" : "fin"
     },
     "translations" : [ {
@@ -735,7 +709,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 57,
+      "id" : 55,
       "form" : "yon"
     },
     "translations" : [ {
@@ -748,7 +722,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 58,
+      "id" : 56,
       "form" : "tin"
     },
     "translations" : [ {
@@ -761,7 +735,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 59,
+      "id" : 57,
       "form" : "wis"
     },
     "translations" : [ {
@@ -774,7 +748,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 60,
+      "id" : 58,
       "form" : "jis"
     },
     "translations" : [ {
@@ -787,7 +761,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 61,
+      "id" : 59,
       "form" : "dis"
     },
     "translations" : [ {
@@ -800,7 +774,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 62,
+      "id" : 60,
       "form" : "man"
     },
     "translations" : [ {
@@ -813,7 +787,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 63,
+      "id" : 61,
       "form" : "fen"
     },
     "translations" : [ {
@@ -826,7 +800,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 64,
+      "id" : 62,
       "form" : "des"
     },
     "translations" : [ {
@@ -839,7 +813,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 65,
+      "id" : 63,
       "form" : "gon"
     },
     "translations" : [ {
@@ -852,7 +826,20 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 66,
+      "id" : 64,
+      "form" : "shis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "笑う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 65,
       "form" : "tlis"
     },
     "translations" : [ {
@@ -865,7 +852,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 67,
+      "id" : 66,
       "form" : "klis"
     },
     "translations" : [ {
@@ -878,7 +865,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 68,
+      "id" : 67,
       "form" : "klan"
     },
     "translations" : [ {
@@ -891,7 +878,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 69,
+      "id" : 68,
       "form" : "aban"
     },
     "translations" : [ {
@@ -904,7 +891,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 70,
+      "id" : 69,
       "form" : "ozan"
     },
     "translations" : [ {
@@ -917,7 +904,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 71,
+      "id" : 70,
       "form" : "azan"
     },
     "translations" : [ {
@@ -930,7 +917,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 72,
+      "id" : 71,
       "form" : "upan"
     },
     "translations" : [ {
@@ -943,7 +930,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 73,
+      "id" : 72,
       "form" : "uman"
     },
     "translations" : [ {
@@ -956,7 +943,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 74,
+      "id" : 73,
       "form" : "olan"
     },
     "translations" : [ {
@@ -969,7 +956,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 75,
+      "id" : 74,
       "form" : "ezan"
     },
     "translations" : [ {
@@ -982,7 +969,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 76,
+      "id" : 75,
       "form" : "kian"
     },
     "translations" : [ {
@@ -998,7 +985,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 77,
+      "id" : 76,
       "form" : "tsan"
     },
     "translations" : [ {
@@ -1011,7 +998,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 78,
+      "id" : 77,
       "form" : "sean"
     },
     "translations" : [ {
@@ -1024,7 +1011,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 79,
+      "id" : 78,
       "form" : "shan"
     },
     "translations" : [ {
@@ -1040,7 +1027,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 80,
+      "id" : 79,
       "form" : "plos"
     },
     "translations" : [ {
@@ -1053,7 +1040,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 81,
+      "id" : 80,
       "form" : "isin"
     },
     "translations" : [ {
@@ -1066,7 +1053,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 82,
+      "id" : 81,
       "form" : "umus"
     },
     "translations" : [ {
@@ -1079,7 +1066,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 83,
+      "id" : 82,
       "form" : "olis"
     },
     "translations" : [ {
@@ -1092,7 +1079,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 84,
+      "id" : 83,
       "form" : "blis"
     },
     "translations" : [ {
@@ -1105,7 +1092,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 85,
+      "id" : 84,
       "form" : "umis"
     },
     "translations" : [ {
@@ -1118,7 +1105,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 86,
+      "id" : 85,
       "form" : "ezis"
     },
     "translations" : [ {
@@ -1131,20 +1118,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 87,
-      "form" : "tsis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "悲しむ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 88,
+      "id" : 86,
       "form" : "pele"
     },
     "translations" : [ {
@@ -1157,7 +1131,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 89,
+      "id" : 87,
       "form" : "kles"
     },
     "translations" : [ {
@@ -1170,7 +1144,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 90,
+      "id" : 88,
       "form" : "oles"
     },
     "translations" : [ {
@@ -1183,7 +1157,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 91,
+      "id" : 89,
       "form" : "apis"
     },
     "translations" : [ {
@@ -1196,7 +1170,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 92,
+      "id" : 90,
       "form" : "ubes"
     },
     "translations" : [ {
@@ -1209,7 +1183,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 93,
+      "id" : 91,
       "form" : "ujes"
     },
     "translations" : [ {
@@ -1222,7 +1196,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 94,
+      "id" : 92,
       "form" : "okes"
     },
     "translations" : [ {
@@ -1235,7 +1209,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 95,
+      "id" : 93,
       "form" : "ekes"
     },
     "translations" : [ {
@@ -1248,7 +1222,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 96,
+      "id" : 94,
       "form" : "emes"
     },
     "translations" : [ {
@@ -1261,7 +1235,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 97,
+      "id" : 95,
       "form" : "tsis"
     },
     "translations" : [ {
@@ -1274,7 +1248,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 98,
+      "id" : 96,
       "form" : "ames"
     },
     "translations" : [ {
@@ -1287,7 +1261,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 99,
+      "id" : 97,
       "form" : "plas"
     },
     "translations" : [ {
@@ -1300,7 +1274,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 100,
+      "id" : 98,
       "form" : "ikes"
     },
     "translations" : [ {
@@ -1313,7 +1287,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 101,
+      "id" : 99,
       "form" : "kwes"
     },
     "translations" : [ {
@@ -1326,7 +1300,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 102,
+      "id" : 100,
       "form" : "knis"
     },
     "translations" : [ {
@@ -1339,7 +1313,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 103,
+      "id" : 101,
       "form" : "sles"
     },
     "translations" : [ {
@@ -1352,7 +1326,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 104,
+      "id" : 102,
       "form" : "slis"
     },
     "translations" : [ {
@@ -1365,7 +1339,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 105,
+      "id" : 103,
       "form" : "chis"
     },
     "translations" : [ {
@@ -1378,7 +1352,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 106,
+      "id" : 104,
       "form" : "olos"
     },
     "translations" : [ {
@@ -1391,7 +1365,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 107,
+      "id" : 105,
       "form" : "fles"
     },
     "translations" : [ {
@@ -1404,7 +1378,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 108,
+      "id" : 106,
       "form" : "ubis"
     },
     "translations" : [ {
@@ -1417,7 +1391,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 109,
+      "id" : 107,
       "form" : "mlis"
     },
     "translations" : [ {
@@ -1430,7 +1404,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 110,
+      "id" : 108,
       "form" : "mlin"
     },
     "translations" : [ {
@@ -1443,7 +1417,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 111,
+      "id" : 109,
       "form" : "glan"
     },
     "translations" : [ {
@@ -1456,7 +1430,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 112,
+      "id" : 110,
       "form" : "ezon"
     },
     "translations" : [ {
@@ -1469,7 +1443,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 113,
+      "id" : 111,
       "form" : "blon"
     },
     "translations" : [ {
@@ -1482,7 +1456,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 114,
+      "id" : 112,
       "form" : "htis"
     },
     "translations" : [ {
@@ -1495,7 +1469,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 115,
+      "id" : 113,
       "form" : "knes"
     },
     "translations" : [ {
@@ -1511,7 +1485,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 116,
+      "id" : 114,
       "form" : "ajon"
     },
     "translations" : [ {
@@ -1524,7 +1498,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 117,
+      "id" : 115,
       "form" : "ekos"
     },
     "translations" : [ {
@@ -1537,7 +1511,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 118,
+      "id" : 116,
       "form" : "amin"
     },
     "translations" : [ {
@@ -1550,7 +1524,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 119,
+      "id" : 117,
       "form" : "upen"
     },
     "translations" : [ {
@@ -1563,7 +1537,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 120,
+      "id" : 118,
       "form" : "tlon"
     },
     "translations" : [ {
@@ -1576,7 +1550,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 121,
+      "id" : 119,
       "form" : "blan"
     },
     "translations" : [ {
@@ -1589,7 +1563,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 122,
+      "id" : 120,
       "form" : "chin"
     },
     "translations" : [ {
@@ -1602,7 +1576,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 123,
+      "id" : 121,
       "form" : "kwin"
     },
     "translations" : [ {
@@ -1615,7 +1589,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 124,
+      "id" : 122,
       "form" : "gwis"
     },
     "translations" : [ {
@@ -1628,7 +1602,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 125,
+      "id" : 123,
       "form" : "lyes"
     },
     "translations" : [ {
@@ -1641,7 +1615,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 126,
+      "id" : 124,
       "form" : "kwan"
     },
     "translations" : [ {
@@ -1654,7 +1628,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 127,
+      "id" : 125,
       "form" : "itin"
     },
     "translations" : [ {
@@ -1667,7 +1641,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 128,
+      "id" : 126,
       "form" : "kwis"
     },
     "translations" : [ {
@@ -1680,7 +1654,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 129,
+      "id" : 127,
       "form" : "elan"
     },
     "translations" : [ {
@@ -1693,7 +1667,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 130,
+      "id" : 128,
       "form" : "plan"
     },
     "translations" : [ {
@@ -1706,12 +1680,38 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 131,
+      "id" : 129,
       "form" : "glis"
     },
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "本物の", "真の", "正しい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 130,
+      "form" : "glen"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "土地", "領土", "領域", "範囲" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 131,
+      "form" : "efen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "吹雪", "豪雪" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3274,7 +3274,7 @@
   }, {
     "entry" : {
       "id" : 249,
-      "form" : "gotan"
+      "form" : "lotan"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -4197,7 +4197,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "囲む" ]
+      "forms" : [ "囲む", "閉じる", "閉じ込める" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4206,19 +4206,6 @@
   }, {
     "entry" : {
       "id" : 320,
-      "form" : "nolis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "巡る", "回る", "周回する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 321,
       "form" : "guwis"
     },
     "translations" : [ {
@@ -4231,7 +4218,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 322,
+      "id" : 321,
       "form" : "guwes"
     },
     "translations" : [ {
@@ -4244,7 +4231,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 323,
+      "id" : 322,
       "form" : "lidis"
     },
     "translations" : [ {
@@ -4257,7 +4244,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 324,
+      "id" : 323,
       "form" : "lides"
     },
     "translations" : [ {
@@ -4270,7 +4257,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 325,
+      "id" : 324,
       "form" : "fabes"
     },
     "translations" : [ {
@@ -4283,7 +4270,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 326,
+      "id" : 325,
       "form" : "tules"
     },
     "translations" : [ {
@@ -4296,7 +4283,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 327,
+      "id" : 326,
       "form" : "shiis"
     },
     "translations" : [ {
@@ -4309,7 +4296,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 328,
+      "id" : 327,
       "form" : "aemen"
     },
     "translations" : [ {
@@ -4322,7 +4309,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 329,
+      "id" : 328,
       "form" : "kiwis"
     },
     "translations" : [ {
@@ -4335,7 +4322,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 330,
+      "id" : 329,
       "form" : "kiwes"
     },
     "translations" : [ {
@@ -4348,7 +4335,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 331,
+      "id" : 330,
       "form" : "mobes"
     },
     "translations" : [ {
@@ -4361,7 +4348,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 332,
+      "id" : 331,
       "form" : "bules"
     },
     "translations" : [ {
@@ -4374,7 +4361,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 333,
+      "id" : 332,
       "form" : "benes"
     },
     "translations" : [ {
@@ -4387,7 +4374,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 334,
+      "id" : 333,
       "form" : "jazis"
     },
     "translations" : [ {
@@ -4400,7 +4387,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 335,
+      "id" : 334,
       "form" : "hates"
     },
     "translations" : [ {
@@ -4413,7 +4400,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 336,
+      "id" : 335,
       "form" : "zomis"
     },
     "translations" : [ {
@@ -4426,7 +4413,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 337,
+      "id" : 336,
       "form" : "lotes"
     },
     "translations" : [ {
@@ -4439,7 +4426,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 338,
+      "id" : 337,
       "form" : "gimes"
     },
     "translations" : [ {
@@ -4452,7 +4439,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 339,
+      "id" : 338,
       "form" : "lobas"
     },
     "translations" : [ {
@@ -4465,7 +4452,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 340,
+      "id" : 339,
       "form" : "letes"
     },
     "translations" : [ {
@@ -4478,7 +4465,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 341,
+      "id" : 340,
       "form" : "lekis"
     },
     "translations" : [ {
@@ -4491,7 +4478,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 342,
+      "id" : 341,
       "form" : "hunis"
     },
     "translations" : [ {
@@ -4504,7 +4491,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 343,
+      "id" : 342,
       "form" : "kales"
     },
     "translations" : [ {
@@ -4517,7 +4504,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 344,
+      "id" : 343,
       "form" : "kesis"
     },
     "translations" : [ {
@@ -4530,7 +4517,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 345,
+      "id" : 344,
       "form" : "kimas"
     },
     "translations" : [ {
@@ -4543,7 +4530,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 346,
+      "id" : 345,
       "form" : "pilis"
     },
     "translations" : [ {
@@ -4556,7 +4543,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 347,
+      "id" : 346,
       "form" : "pedes"
     },
     "translations" : [ {
@@ -4569,7 +4556,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 348,
+      "id" : 347,
       "form" : "fejes"
     },
     "translations" : [ {
@@ -4582,7 +4569,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 349,
+      "id" : 348,
       "form" : "sabis"
     },
     "translations" : [ {
@@ -4595,7 +4582,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 350,
+      "id" : 349,
       "form" : "teles"
     },
     "translations" : [ {
@@ -4608,7 +4595,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 351,
+      "id" : 350,
       "form" : "lowis"
     },
     "translations" : [ {
@@ -4621,7 +4608,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 352,
+      "id" : 351,
       "form" : "tepes"
     },
     "translations" : [ {
@@ -4634,7 +4621,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 353,
+      "id" : 352,
       "form" : "fibes"
     },
     "translations" : [ {
@@ -4647,7 +4634,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 354,
+      "id" : 353,
       "form" : "sunes"
     },
     "translations" : [ {
@@ -4660,7 +4647,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 355,
+      "id" : 354,
       "form" : "skais"
     },
     "translations" : [ {
@@ -4673,7 +4660,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 356,
+      "id" : 355,
       "form" : "tabes"
     },
     "translations" : [ {
@@ -4686,7 +4673,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 357,
+      "id" : 356,
       "form" : "mikis"
     },
     "translations" : [ {
@@ -4699,7 +4686,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 358,
+      "id" : 357,
       "form" : "bales"
     },
     "translations" : [ {
@@ -4712,7 +4699,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 359,
+      "id" : 358,
       "form" : "wimes"
     },
     "translations" : [ {
@@ -4725,7 +4712,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 360,
+      "id" : 359,
       "form" : "habes"
     },
     "translations" : [ {
@@ -4738,7 +4725,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 361,
+      "id" : 360,
       "form" : "koles"
     },
     "translations" : [ {
@@ -4751,7 +4738,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 362,
+      "id" : 361,
       "form" : "jites"
     },
     "translations" : [ {
@@ -4764,7 +4751,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 363,
+      "id" : 362,
       "form" : "lobes"
     },
     "translations" : [ {
@@ -4777,7 +4764,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 364,
+      "id" : 363,
       "form" : "sapes"
     },
     "translations" : [ {
@@ -4790,7 +4777,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 365,
+      "id" : 364,
       "form" : "mekis"
     },
     "translations" : [ {
@@ -4803,7 +4790,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 366,
+      "id" : 365,
       "form" : "depes"
     },
     "translations" : [ {
@@ -4816,7 +4803,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 367,
+      "id" : 366,
       "form" : "kedis"
     },
     "translations" : [ {
@@ -4829,7 +4816,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 368,
+      "id" : 367,
       "form" : "feles"
     },
     "translations" : [ {
@@ -4842,7 +4829,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 369,
+      "id" : 368,
       "form" : "sabes"
     },
     "translations" : [ {
@@ -4855,7 +4842,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 370,
+      "id" : 369,
       "form" : "yolis"
     },
     "translations" : [ {
@@ -4868,7 +4855,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 371,
+      "id" : 370,
       "form" : "hezes"
     },
     "translations" : [ {
@@ -4881,7 +4868,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 372,
+      "id" : 371,
       "form" : "pajin"
     },
     "translations" : [ {
@@ -4894,7 +4881,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 373,
+      "id" : 372,
       "form" : "tanis"
     },
     "translations" : [ {
@@ -4907,7 +4894,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 374,
+      "id" : 373,
       "form" : "bayes"
     },
     "translations" : [ {
@@ -4920,7 +4907,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 375,
+      "id" : 374,
       "form" : "jimas"
     },
     "translations" : [ {
@@ -4933,7 +4920,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 376,
+      "id" : 375,
       "form" : "watis"
     },
     "translations" : [ {
@@ -4946,7 +4933,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 377,
+      "id" : 376,
       "form" : "lazis"
     },
     "translations" : [ {
@@ -4959,7 +4946,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 378,
+      "id" : 377,
       "form" : "wemis"
     },
     "translations" : [ {
@@ -4972,7 +4959,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 379,
+      "id" : 378,
       "form" : "ublis"
     },
     "translations" : [ {
@@ -4985,7 +4972,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 380,
+      "id" : 379,
       "form" : "jamis"
     },
     "translations" : [ {
@@ -4998,7 +4985,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 381,
+      "id" : 380,
       "form" : "pisis"
     },
     "translations" : [ {
@@ -5011,7 +4998,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 382,
+      "id" : 381,
       "form" : "sames"
     },
     "translations" : [ {
@@ -5024,7 +5011,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 383,
+      "id" : 382,
       "form" : "toles"
     },
     "translations" : [ {
@@ -5037,7 +5024,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 384,
+      "id" : 383,
       "form" : "niles"
     },
     "translations" : [ {
@@ -5050,7 +5037,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 385,
+      "id" : 384,
       "form" : "nilis"
     },
     "translations" : [ {
@@ -5063,7 +5050,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 386,
+      "id" : 385,
       "form" : "hogis"
     },
     "translations" : [ {
@@ -5076,7 +5063,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 387,
+      "id" : 386,
       "form" : "hugis"
     },
     "translations" : [ {
@@ -5089,7 +5076,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 388,
+      "id" : 387,
       "form" : "weton"
     },
     "translations" : [ {
@@ -5102,7 +5089,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 389,
+      "id" : 388,
       "form" : "kilin"
     },
     "translations" : [ {
@@ -5115,7 +5102,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 390,
+      "id" : 389,
       "form" : "kolan"
     },
     "translations" : [ {
@@ -5128,7 +5115,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 391,
+      "id" : 390,
       "form" : "pijin"
     },
     "translations" : [ {
@@ -5141,7 +5128,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 392,
+      "id" : 391,
       "form" : "lumis"
     },
     "translations" : [ {
@@ -5154,7 +5141,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 393,
+      "id" : 392,
       "form" : "zatis"
     },
     "translations" : [ {
@@ -5167,7 +5154,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 394,
+      "id" : 393,
       "form" : "oltis"
     },
     "translations" : [ {
@@ -5180,7 +5167,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 395,
+      "id" : 394,
       "form" : "fisis"
     },
     "translations" : [ {
@@ -5193,7 +5180,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 396,
+      "id" : 395,
       "form" : "dilin"
     },
     "translations" : [ {
@@ -5206,7 +5193,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 397,
+      "id" : 396,
       "form" : "mefin"
     },
     "translations" : [ {
@@ -5219,7 +5206,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 398,
+      "id" : 397,
       "form" : "kemin"
     },
     "translations" : [ {
@@ -5232,7 +5219,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 399,
+      "id" : 398,
       "form" : "limis"
     },
     "translations" : [ {
@@ -5245,7 +5232,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 400,
+      "id" : 399,
       "form" : "koman"
     },
     "translations" : [ {
@@ -5258,7 +5245,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 401,
+      "id" : 400,
       "form" : "skles"
     },
     "translations" : [ {
@@ -5271,7 +5258,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 402,
+      "id" : 401,
       "form" : "dekan"
     },
     "translations" : [ {
@@ -5284,7 +5271,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 403,
+      "id" : 402,
       "form" : "hebon"
     },
     "translations" : [ {
@@ -5297,7 +5284,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 404,
+      "id" : 403,
       "form" : "tilin"
     },
     "translations" : [ {
@@ -5310,7 +5297,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 405,
+      "id" : 404,
       "form" : "hobon"
     },
     "translations" : [ {
@@ -5323,7 +5310,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 406,
+      "id" : 405,
       "form" : "kinan"
     },
     "translations" : [ {
@@ -5336,7 +5323,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 407,
+      "id" : 406,
       "form" : "kulin"
     },
     "translations" : [ {
@@ -5349,7 +5336,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 408,
+      "id" : 407,
       "form" : "hikin"
     },
     "translations" : [ {
@@ -5362,7 +5349,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 409,
+      "id" : 408,
       "form" : "masin"
     },
     "translations" : [ {
@@ -5375,7 +5362,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 410,
+      "id" : 409,
       "form" : "nukes"
     },
     "translations" : [ {
@@ -5388,7 +5375,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 411,
+      "id" : 410,
       "form" : "malan"
     },
     "translations" : [ {
@@ -5401,7 +5388,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 412,
+      "id" : 411,
       "form" : "tolin"
     },
     "translations" : [ {
@@ -5414,7 +5401,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 413,
+      "id" : 412,
       "form" : "tolis"
     },
     "translations" : [ {
@@ -5427,7 +5414,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 414,
+      "id" : 413,
       "form" : "meyes"
     },
     "translations" : [ {
@@ -5440,7 +5427,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 415,
+      "id" : 414,
       "form" : "jimis"
     },
     "translations" : [ {
@@ -5453,7 +5440,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 416,
+      "id" : 415,
       "form" : "deman"
     },
     "translations" : [ {
@@ -5466,7 +5453,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 417,
+      "id" : 416,
       "form" : "itsan"
     },
     "translations" : [ {
@@ -5479,7 +5466,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 418,
+      "id" : 417,
       "form" : "logon"
     },
     "translations" : [ {
@@ -5492,7 +5479,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 419,
+      "id" : 418,
       "form" : "lapan"
     },
     "translations" : [ {
@@ -5505,7 +5492,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 420,
+      "id" : 419,
       "form" : "majes"
     },
     "translations" : [ {
@@ -5518,7 +5505,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 421,
+      "id" : 420,
       "form" : "zepin"
     },
     "translations" : [ {
@@ -5531,7 +5518,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 422,
+      "id" : 421,
       "form" : "saman"
     },
     "translations" : [ {
@@ -5544,7 +5531,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 423,
+      "id" : 422,
       "form" : "metes"
     },
     "translations" : [ {
@@ -5557,7 +5544,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 424,
+      "id" : 423,
       "form" : "samis"
     },
     "translations" : [ {
@@ -5570,7 +5557,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 425,
+      "id" : 424,
       "form" : "makis"
     },
     "translations" : [ {
@@ -5583,7 +5570,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 426,
+      "id" : 425,
       "form" : "mebon"
     },
     "translations" : [ {
@@ -5596,7 +5583,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 427,
+      "id" : 426,
       "form" : "jopin"
     },
     "translations" : [ {
@@ -5609,7 +5596,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 428,
+      "id" : 427,
       "form" : "komin"
     },
     "translations" : [ {
@@ -5622,7 +5609,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 429,
+      "id" : 428,
       "form" : "hemin"
     },
     "translations" : [ {
@@ -5635,7 +5622,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 430,
+      "id" : 429,
       "form" : "tubin"
     },
     "translations" : [ {
@@ -5648,7 +5635,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 431,
+      "id" : 430,
       "form" : "keles"
     },
     "translations" : [ {
@@ -5661,7 +5648,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 432,
+      "id" : 431,
       "form" : "aplin"
     },
     "translations" : [ {
@@ -5674,7 +5661,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 433,
+      "id" : 432,
       "form" : "somes"
     },
     "translations" : [ {
@@ -5687,7 +5674,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 434,
+      "id" : 433,
       "form" : "tabin"
     },
     "translations" : [ {
@@ -5700,7 +5687,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 435,
+      "id" : 434,
       "form" : "yapis"
     },
     "translations" : [ {
@@ -5713,7 +5700,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 436,
+      "id" : 435,
       "form" : "hebes"
     },
     "translations" : [ {
@@ -5726,7 +5713,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 437,
+      "id" : 436,
       "form" : "hebis"
     },
     "translations" : [ {
@@ -5739,7 +5726,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 438,
+      "id" : 437,
       "form" : "mapes"
     },
     "translations" : [ {
@@ -5752,7 +5739,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 439,
+      "id" : 438,
       "form" : "mapis"
     },
     "translations" : [ {
@@ -5765,7 +5752,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 440,
+      "id" : 439,
       "form" : "kapis"
     },
     "translations" : [ {
@@ -5778,7 +5765,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 441,
+      "id" : 440,
       "form" : "kapes"
     },
     "translations" : [ {
@@ -5791,7 +5778,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 442,
+      "id" : 441,
       "form" : "walis"
     },
     "translations" : [ {
@@ -5804,7 +5791,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 443,
+      "id" : 442,
       "form" : "hakon"
     },
     "translations" : [ {
@@ -5817,7 +5804,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 444,
+      "id" : 443,
       "form" : "kolos"
     },
     "translations" : [ {
@@ -5830,7 +5817,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 445,
+      "id" : 444,
       "form" : "lakin"
     },
     "translations" : [ {
@@ -5843,7 +5830,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 446,
+      "id" : 445,
       "form" : "kepon"
     },
     "translations" : [ {
@@ -5856,7 +5843,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 447,
+      "id" : 446,
       "form" : "kimes"
     },
     "translations" : [ {
@@ -5869,7 +5856,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 448,
+      "id" : 447,
       "form" : "kapas"
     },
     "translations" : [ {
@@ -5882,7 +5869,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 449,
+      "id" : 448,
       "form" : "nakes"
     },
     "translations" : [ {
@@ -5895,7 +5882,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 450,
+      "id" : 449,
       "form" : "liwis"
     },
     "translations" : [ {
@@ -5908,7 +5895,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 451,
+      "id" : 450,
       "form" : "kimis"
     },
     "translations" : [ {
@@ -5921,7 +5908,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 452,
+      "id" : 451,
       "form" : "mopis"
     },
     "translations" : [ {
@@ -5934,7 +5921,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 453,
+      "id" : 452,
       "form" : "pajis"
     },
     "translations" : [ {
@@ -5947,7 +5934,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 454,
+      "id" : 453,
       "form" : "bemen"
     },
     "translations" : [ {
@@ -5960,7 +5947,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 455,
+      "id" : 454,
       "form" : "talan"
     },
     "translations" : [ {
@@ -5973,7 +5960,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 456,
+      "id" : 455,
       "form" : "heles"
     },
     "translations" : [ {
@@ -5986,7 +5973,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 457,
+      "id" : 456,
       "form" : "letis"
     },
     "translations" : [ {
@@ -5999,7 +5986,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 458,
+      "id" : 457,
       "form" : "lepin"
     },
     "translations" : [ {
@@ -6012,12 +5999,12 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 459,
+      "id" : 458,
       "form" : "yomin"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "未来" ]
+      "forms" : [ "未来", "将来" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6025,7 +6012,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 460,
+      "id" : 459,
       "form" : "wamon"
     },
     "translations" : [ {
@@ -6038,7 +6025,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 461,
+      "id" : 460,
       "form" : "yeten"
     },
     "translations" : [ {
@@ -6051,7 +6038,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 462,
+      "id" : 461,
       "form" : "tihin"
     },
     "translations" : [ {
@@ -6064,7 +6051,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 463,
+      "id" : 462,
       "form" : "wamis"
     },
     "translations" : [ {
@@ -6077,7 +6064,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 464,
+      "id" : 463,
       "form" : "ledis"
     },
     "translations" : [ {
@@ -6090,8 +6077,8 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 465,
-      "form" : "pulis"
+      "id" : 464,
+      "form" : "bolis"
     },
     "translations" : [ {
       "title" : "動詞",
@@ -6103,7 +6090,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 466,
+      "id" : 465,
       "form" : "dikan"
     },
     "translations" : [ {
@@ -6116,7 +6103,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 467,
+      "id" : 466,
       "form" : "lifen"
     },
     "translations" : [ {
@@ -6129,7 +6116,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 468,
+      "id" : 467,
       "form" : "tomin"
     },
     "translations" : [ {
@@ -6142,7 +6129,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 469,
+      "id" : 468,
       "form" : "hoton"
     },
     "translations" : [ {
@@ -6155,7 +6142,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 470,
+      "id" : 469,
       "form" : "suban"
     },
     "translations" : [ {
@@ -6168,7 +6155,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 471,
+      "id" : 470,
       "form" : "melan"
     },
     "translations" : [ {
@@ -6181,12 +6168,12 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 472,
+      "id" : 471,
       "form" : "lodan"
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "薬" ]
+      "forms" : [ "薬", "麻薬" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6194,7 +6181,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 473,
+      "id" : 472,
       "form" : "wates"
     },
     "translations" : [ {
@@ -6207,7 +6194,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 474,
+      "id" : 473,
       "form" : "fimin"
     },
     "translations" : [ {
@@ -6220,7 +6207,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 475,
+      "id" : 474,
       "form" : "semes"
     },
     "translations" : [ {
@@ -6233,7 +6220,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 476,
+      "id" : 475,
       "form" : "tolan"
     },
     "translations" : [ {
@@ -6246,7 +6233,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 477,
+      "id" : 476,
       "form" : "podan"
     },
     "translations" : [ {
@@ -6259,7 +6246,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 478,
+      "id" : 477,
       "form" : "sumes"
     },
     "translations" : [ {
@@ -6272,7 +6259,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 479,
+      "id" : 478,
       "form" : "mayes"
     },
     "translations" : [ {
@@ -6285,7 +6272,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 480,
+      "id" : 479,
       "form" : "sklas"
     },
     "translations" : [ {
@@ -6298,7 +6285,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 481,
+      "id" : 480,
       "form" : "gedis"
     },
     "translations" : [ {
@@ -6311,7 +6298,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 482,
+      "id" : 481,
       "form" : "pelon"
     },
     "translations" : [ {
@@ -6324,7 +6311,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 483,
+      "id" : 482,
       "form" : "lihan"
     },
     "translations" : [ {
@@ -6337,7 +6324,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 484,
+      "id" : 483,
       "form" : "hemis"
     },
     "translations" : [ {
@@ -6350,7 +6337,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 485,
+      "id" : 484,
       "form" : "mulen"
     },
     "translations" : [ {
@@ -6363,7 +6350,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 486,
+      "id" : 485,
       "form" : "soles"
     },
     "translations" : [ {
@@ -6376,7 +6363,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 487,
+      "id" : 486,
       "form" : "yalis"
     },
     "translations" : [ {
@@ -6389,7 +6376,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 488,
+      "id" : 487,
       "form" : "yalin"
     },
     "translations" : [ {
@@ -6402,7 +6389,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 489,
+      "id" : 488,
       "form" : "waton"
     },
     "translations" : [ {
@@ -6415,7 +6402,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 490,
+      "id" : 489,
       "form" : "witis"
     },
     "translations" : [ {
@@ -6428,7 +6415,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 491,
+      "id" : 490,
       "form" : "wotis"
     },
     "translations" : [ {
@@ -6441,7 +6428,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 492,
+      "id" : 491,
       "form" : "yomis"
     },
     "translations" : [ {
@@ -6454,7 +6441,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 493,
+      "id" : 492,
       "form" : "yabis"
     },
     "translations" : [ {
@@ -6467,7 +6454,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 494,
+      "id" : 493,
       "form" : "lipes"
     },
     "translations" : [ {
@@ -6480,7 +6467,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 495,
+      "id" : 494,
       "form" : "domon"
     },
     "translations" : [ {
@@ -6493,7 +6480,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 496,
+      "id" : 495,
       "form" : "falon"
     },
     "translations" : [ {
@@ -6506,7 +6493,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 497,
+      "id" : 496,
       "form" : "neles"
     },
     "translations" : [ {
@@ -6519,7 +6506,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 498,
+      "id" : 497,
       "form" : "jilis"
     },
     "translations" : [ {
@@ -6532,7 +6519,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 499,
+      "id" : 498,
       "form" : "balan"
     },
     "translations" : [ {
@@ -6545,7 +6532,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 500,
+      "id" : 499,
       "form" : "zekon"
     },
     "translations" : [ {
@@ -6558,7 +6545,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 501,
+      "id" : 500,
       "form" : "hajin"
     },
     "translations" : [ {
@@ -6571,7 +6558,124 @@
     "relations" : [ ]
   }, {
     "entry" : {
+      "id" : 501,
+      "form" : "likan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "教会", "寺", "神社", "寺院", "神殿" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
       "id" : 502,
+      "form" : "pules"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "回す", "回転させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 503,
+      "form" : "pulis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "回る", "回転する", "転がる", "巡る", "周回する", "循環する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 504,
+      "form" : "goles"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "葬る", "埋葬する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 505,
+      "form" : "molis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "戻る", "元通りになる", "回復する", "再発する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 506,
+      "form" : "wapis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "魅力的な", "好ましい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 507,
+      "form" : "golis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "空の", "空洞の", "空虚な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 508,
+      "form" : "kulan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "社会", "文明" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 509,
+      "form" : "plabis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "起きる", "発生する", "起こる", "現れる", "できる", "生まれる", "産まれる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 510,
       "form" : "yaltes"
     },
     "translations" : [ {
@@ -6584,7 +6688,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 503,
+      "id" : 511,
       "form" : "awemis"
     },
     "translations" : [ {
@@ -6597,7 +6701,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 504,
+      "id" : 512,
       "form" : "tlamin"
     },
     "translations" : [ {
@@ -6610,7 +6714,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 505,
+      "id" : 513,
       "form" : "baltan"
     },
     "translations" : [ {
@@ -6623,7 +6727,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 506,
+      "id" : 514,
       "form" : "skilan"
     },
     "translations" : [ {
@@ -6636,7 +6740,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 507,
+      "id" : 515,
       "form" : "holmis"
     },
     "translations" : [ {
@@ -6649,7 +6753,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 508,
+      "id" : 516,
       "form" : "olowis"
     },
     "translations" : [ {
@@ -6662,7 +6766,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 509,
+      "id" : 517,
       "form" : "ekinis"
     },
     "translations" : [ {
@@ -6675,7 +6779,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 510,
+      "id" : 518,
       "form" : "bluton"
     },
     "translations" : [ {
@@ -6688,7 +6792,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 511,
+      "id" : 519,
       "form" : "bloban"
     },
     "translations" : [ {
@@ -6701,7 +6805,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 512,
+      "id" : 520,
       "form" : "slesan"
     },
     "translations" : [ {
@@ -6714,7 +6818,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 513,
+      "id" : 521,
       "form" : "neulin"
     },
     "translations" : [ {
@@ -6727,7 +6831,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 514,
+      "id" : 522,
       "form" : "klowan"
     },
     "translations" : [ {
@@ -6740,7 +6844,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 515,
+      "id" : 523,
       "form" : "ehinan"
     },
     "translations" : [ {
@@ -6753,7 +6857,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 516,
+      "id" : 524,
       "form" : "ukepin"
     },
     "translations" : [ {
@@ -6766,7 +6870,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 517,
+      "id" : 525,
       "form" : "yondan"
     },
     "translations" : [ {
@@ -6779,7 +6883,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 518,
+      "id" : 526,
       "form" : "ofilan"
     },
     "translations" : [ {
@@ -6792,7 +6896,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 519,
+      "id" : 527,
       "form" : "ubeyan"
     },
     "translations" : [ {
@@ -6805,7 +6909,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 520,
+      "id" : 528,
       "form" : "efelan"
     },
     "translations" : [ {
@@ -6818,7 +6922,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 521,
+      "id" : 529,
       "form" : "lasban"
     },
     "translations" : [ {
@@ -6831,7 +6935,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 522,
+      "id" : 530,
       "form" : "atolan"
     },
     "translations" : [ {
@@ -6844,7 +6948,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 523,
+      "id" : 531,
       "form" : "akaman"
     },
     "translations" : [ {
@@ -6857,7 +6961,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 524,
+      "id" : 532,
       "form" : "akeban"
     },
     "translations" : [ {
@@ -6870,7 +6974,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 525,
+      "id" : 533,
       "form" : "apilan"
     },
     "translations" : [ {
@@ -6883,7 +6987,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 526,
+      "id" : 534,
       "form" : "apikan"
     },
     "translations" : [ {
@@ -6896,7 +7000,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 527,
+      "id" : 535,
       "form" : "afasan"
     },
     "translations" : [ {
@@ -6909,7 +7013,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 528,
+      "id" : 536,
       "form" : "amaban"
     },
     "translations" : [ {
@@ -6922,7 +7026,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 529,
+      "id" : 537,
       "form" : "ipolan"
     },
     "translations" : [ {
@@ -6935,7 +7039,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 530,
+      "id" : 538,
       "form" : "ubalan"
     },
     "translations" : [ {
@@ -6948,7 +7052,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 531,
+      "id" : 539,
       "form" : "ubiwan"
     },
     "translations" : [ {
@@ -6961,7 +7065,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 532,
+      "id" : 540,
       "form" : "utolan"
     },
     "translations" : [ {
@@ -6974,7 +7078,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 533,
+      "id" : 541,
       "form" : "ukulan"
     },
     "translations" : [ {
@@ -6987,7 +7091,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 534,
+      "id" : 542,
       "form" : "upolan"
     },
     "translations" : [ {
@@ -7000,7 +7104,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 535,
+      "id" : 543,
       "form" : "utanan"
     },
     "translations" : [ {
@@ -7013,7 +7117,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 536,
+      "id" : 544,
       "form" : "umalan"
     },
     "translations" : [ {
@@ -7026,7 +7130,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 537,
+      "id" : 545,
       "form" : "olukan"
     },
     "translations" : [ {
@@ -7039,7 +7143,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 538,
+      "id" : 546,
       "form" : "egenan"
     },
     "translations" : [ {
@@ -7052,7 +7156,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 539,
+      "id" : 547,
       "form" : "elaman"
     },
     "translations" : [ {
@@ -7065,7 +7169,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 540,
+      "id" : 548,
       "form" : "ehiyan"
     },
     "translations" : [ {
@@ -7078,7 +7182,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 541,
+      "id" : 549,
       "form" : "ekinan"
     },
     "translations" : [ {
@@ -7091,7 +7195,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 542,
+      "id" : 550,
       "form" : "epelan"
     },
     "translations" : [ {
@@ -7104,7 +7208,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 543,
+      "id" : 551,
       "form" : "epenan"
     },
     "translations" : [ {
@@ -7117,7 +7221,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 544,
+      "id" : 552,
       "form" : "otowan"
     },
     "translations" : [ {
@@ -7130,7 +7234,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 545,
+      "id" : 553,
       "form" : "guenan"
     },
     "translations" : [ {
@@ -7143,7 +7247,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 546,
+      "id" : 554,
       "form" : "otolan"
     },
     "translations" : [ {
@@ -7156,7 +7260,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 547,
+      "id" : 555,
       "form" : "duutan"
     },
     "translations" : [ {
@@ -7169,7 +7273,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 548,
+      "id" : 556,
       "form" : "doolan"
     },
     "translations" : [ {
@@ -7182,7 +7286,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 549,
+      "id" : 557,
       "form" : "deigan"
     },
     "translations" : [ {
@@ -7195,7 +7299,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 550,
+      "id" : 558,
       "form" : "deenan"
     },
     "translations" : [ {
@@ -7208,7 +7312,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 551,
+      "id" : 559,
       "form" : "lanton"
     },
     "translations" : [ {
@@ -7221,7 +7325,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 552,
+      "id" : 560,
       "form" : "lantan"
     },
     "translations" : [ {
@@ -7234,7 +7338,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 553,
+      "id" : 561,
       "form" : "liiwan"
     },
     "translations" : [ {
@@ -7247,7 +7351,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 554,
+      "id" : 562,
       "form" : "lekkan"
     },
     "translations" : [ {
@@ -7260,7 +7364,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 555,
+      "id" : 563,
       "form" : "atowan"
     },
     "translations" : [ {
@@ -7273,7 +7377,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 556,
+      "id" : 564,
       "form" : "haskan"
     },
     "translations" : [ {
@@ -7286,7 +7390,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 557,
+      "id" : 565,
       "form" : "hassan"
     },
     "translations" : [ {
@@ -7299,8 +7403,8 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 558,
-      "form" : "hanuan"
+      "id" : 566,
+      "form" : "tapuan"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -7312,7 +7416,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 559,
+      "id" : 567,
       "form" : "huntan"
     },
     "translations" : [ {
@@ -7325,7 +7429,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 560,
+      "id" : 568,
       "form" : "kaazan"
     },
     "translations" : [ {
@@ -7338,7 +7442,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 561,
+      "id" : 569,
       "form" : "kassan"
     },
     "translations" : [ {
@@ -7351,7 +7455,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 562,
+      "id" : 570,
       "form" : "kanpan"
     },
     "translations" : [ {
@@ -7364,7 +7468,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 563,
+      "id" : 571,
       "form" : "kiitan"
     },
     "translations" : [ {
@@ -7377,7 +7481,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 564,
+      "id" : 572,
       "form" : "kiiman"
     },
     "translations" : [ {
@@ -7390,7 +7494,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 565,
+      "id" : 573,
       "form" : "kuolan"
     },
     "translations" : [ {
@@ -7403,7 +7507,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 566,
+      "id" : 574,
       "form" : "kusman"
     },
     "translations" : [ {
@@ -7416,7 +7520,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 567,
+      "id" : 575,
       "form" : "kuntan"
     },
     "translations" : [ {
@@ -7429,7 +7533,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 568,
+      "id" : 576,
       "form" : "hloban"
     },
     "translations" : [ {
@@ -7442,7 +7546,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 569,
+      "id" : 577,
       "form" : "khidan"
     },
     "translations" : [ {
@@ -7458,7 +7562,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 570,
+      "id" : 578,
       "form" : "pelman"
     },
     "translations" : [ {
@@ -7471,7 +7575,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 571,
+      "id" : 579,
       "form" : "chikan"
     },
     "translations" : [ {
@@ -7484,7 +7588,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 572,
+      "id" : 580,
       "form" : "chiwan"
     },
     "translations" : [ {
@@ -7497,7 +7601,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 573,
+      "id" : 581,
       "form" : "fattan"
     },
     "translations" : [ {
@@ -7510,7 +7614,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 574,
+      "id" : 582,
       "form" : "dantan"
     },
     "translations" : [ {
@@ -7523,7 +7627,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 575,
+      "id" : 583,
       "form" : "tuuhan"
     },
     "translations" : [ {
@@ -7536,7 +7640,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 576,
+      "id" : 584,
       "form" : "tsuman"
     },
     "translations" : [ {
@@ -7549,7 +7653,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 577,
+      "id" : 585,
       "form" : "tsuwan"
     },
     "translations" : [ {
@@ -7562,7 +7666,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 578,
+      "id" : 586,
       "form" : "silkan"
     },
     "translations" : [ {
@@ -7575,7 +7679,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 579,
+      "id" : 587,
       "form" : "sonkan"
     },
     "translations" : [ {
@@ -7588,7 +7692,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 580,
+      "id" : 588,
       "form" : "seolan"
     },
     "translations" : [ {
@@ -7601,7 +7705,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 581,
+      "id" : 589,
       "form" : "shigan"
     },
     "translations" : [ {
@@ -7614,7 +7718,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 582,
+      "id" : 590,
       "form" : "shikan"
     },
     "translations" : [ {
@@ -7627,7 +7731,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 583,
+      "id" : 591,
       "form" : "shesan"
     },
     "translations" : [ {
@@ -7640,7 +7744,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 584,
+      "id" : 592,
       "form" : "machin"
     },
     "translations" : [ {
@@ -7653,7 +7757,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 585,
+      "id" : 593,
       "form" : "malban"
     },
     "translations" : [ {
@@ -7666,7 +7770,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 586,
+      "id" : 594,
       "form" : "miklan"
     },
     "translations" : [ {
@@ -7679,7 +7783,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 587,
+      "id" : 595,
       "form" : "mokkan"
     },
     "translations" : [ {
@@ -7692,7 +7796,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 588,
+      "id" : 596,
       "form" : "melean"
     },
     "translations" : [ {
@@ -7705,7 +7809,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 589,
+      "id" : 597,
       "form" : "naabon"
     },
     "translations" : [ {
@@ -7718,7 +7822,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 590,
+      "id" : 598,
       "form" : "noodan"
     },
     "translations" : [ {
@@ -7731,7 +7835,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 591,
+      "id" : 599,
       "form" : "shiwan"
     },
     "translations" : [ {
@@ -7744,20 +7848,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 592,
-      "form" : "loikan"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "教会", "寺", "神社", "寺院", "神殿" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 593,
+      "id" : 600,
       "form" : "shiman"
     },
     "translations" : [ {
@@ -7770,7 +7861,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 594,
+      "id" : 601,
       "form" : "delian"
     },
     "translations" : [ {
@@ -7783,7 +7874,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 595,
+      "id" : 602,
       "form" : "shitan"
     },
     "translations" : [ {
@@ -7796,7 +7887,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 596,
+      "id" : 603,
       "form" : "okelan"
     },
     "translations" : [ {
@@ -7809,7 +7900,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 597,
+      "id" : 604,
       "form" : "isowen"
     },
     "translations" : [ {
@@ -7822,7 +7913,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 598,
+      "id" : 605,
       "form" : "upilan"
     },
     "translations" : [ {
@@ -7835,7 +7926,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 599,
+      "id" : 606,
       "form" : "apijan"
     },
     "translations" : [ {
@@ -7848,7 +7939,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 600,
+      "id" : 607,
       "form" : "ulagan"
     },
     "translations" : [ {
@@ -7861,7 +7952,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 601,
+      "id" : 608,
       "form" : "ekeman"
     },
     "translations" : [ {
@@ -7874,7 +7965,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 602,
+      "id" : 609,
       "form" : "akitan"
     },
     "translations" : [ {
@@ -7887,20 +7978,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 603,
-      "form" : "hapata"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "土地", "領土", "領域", "範囲" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 604,
+      "id" : 610,
       "form" : "alutis"
     },
     "translations" : [ {
@@ -7913,7 +7991,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 605,
+      "id" : 611,
       "form" : "alutes"
     },
     "translations" : [ {
@@ -7926,7 +8004,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 606,
+      "id" : 612,
       "form" : "kliwis"
     },
     "translations" : [ {
@@ -7939,7 +8017,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 607,
+      "id" : 613,
       "form" : "sijlis"
     },
     "translations" : [ {
@@ -7952,7 +8030,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 608,
+      "id" : 614,
       "form" : "shijis"
     },
     "translations" : [ {
@@ -7965,7 +8043,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 609,
+      "id" : 615,
       "form" : "kutles"
     },
     "translations" : [ {
@@ -7978,7 +8056,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 610,
+      "id" : 616,
       "form" : "blibes"
     },
     "translations" : [ {
@@ -7991,7 +8069,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 611,
+      "id" : 617,
       "form" : "lobles"
     },
     "translations" : [ {
@@ -8004,7 +8082,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 612,
+      "id" : 618,
       "form" : "loblis"
     },
     "translations" : [ {
@@ -8017,7 +8095,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 613,
+      "id" : 619,
       "form" : "niswis"
     },
     "translations" : [ {
@@ -8030,7 +8108,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 614,
+      "id" : 620,
       "form" : "ikebis"
     },
     "translations" : [ {
@@ -8043,7 +8121,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 615,
+      "id" : 621,
       "form" : "kulgis"
     },
     "translations" : [ {
@@ -8056,7 +8134,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 616,
+      "id" : 622,
       "form" : "yondis"
     },
     "translations" : [ {
@@ -8069,7 +8147,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 617,
+      "id" : 623,
       "form" : "chimis"
     },
     "translations" : [ {
@@ -8082,7 +8160,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 618,
+      "id" : 624,
       "form" : "ukimis"
     },
     "translations" : [ {
@@ -8095,7 +8173,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 619,
+      "id" : 625,
       "form" : "agahis"
     },
     "translations" : [ {
@@ -8108,7 +8186,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 620,
+      "id" : 626,
       "form" : "upolis"
     },
     "translations" : [ {
@@ -8121,7 +8199,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 621,
+      "id" : 627,
       "form" : "egenis"
     },
     "translations" : [ {
@@ -8134,7 +8212,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 622,
+      "id" : 628,
       "form" : "yeenis"
     },
     "translations" : [ {
@@ -8147,7 +8225,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 623,
+      "id" : 629,
       "form" : "spidis"
     },
     "translations" : [ {
@@ -8160,7 +8238,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 624,
+      "id" : 630,
       "form" : "lootis"
     },
     "translations" : [ {
@@ -8173,7 +8251,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 625,
+      "id" : 631,
       "form" : "atowis"
     },
     "translations" : [ {
@@ -8186,7 +8264,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 626,
+      "id" : 632,
       "form" : "haskis"
     },
     "translations" : [ {
@@ -8199,7 +8277,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 627,
+      "id" : 633,
       "form" : "kiolis"
     },
     "translations" : [ {
@@ -8212,7 +8290,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 628,
+      "id" : 634,
       "form" : "tsowis"
     },
     "translations" : [ {
@@ -8225,7 +8303,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 629,
+      "id" : 635,
       "form" : "malyis"
     },
     "translations" : [ {
@@ -8238,7 +8316,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 630,
+      "id" : 636,
       "form" : "manyis"
     },
     "translations" : [ {
@@ -8251,7 +8329,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 631,
+      "id" : 637,
       "form" : "mondis"
     },
     "translations" : [ {
@@ -8264,7 +8342,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 632,
+      "id" : 638,
       "form" : "hustis"
     },
     "translations" : [ {
@@ -8277,7 +8355,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 633,
+      "id" : 639,
       "form" : "shigis"
     },
     "translations" : [ {
@@ -8290,7 +8368,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 634,
+      "id" : 640,
       "form" : "shelis"
     },
     "translations" : [ {
@@ -8303,7 +8381,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 635,
+      "id" : 641,
       "form" : "yuules"
     },
     "translations" : [ {
@@ -8316,20 +8394,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 636,
-      "form" : "lyomes"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "回す", "回転させる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 637,
+      "id" : 642,
       "form" : "seches"
     },
     "translations" : [ {
@@ -8342,7 +8407,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 638,
+      "id" : 643,
       "form" : "olages"
     },
     "translations" : [ {
@@ -8355,7 +8420,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 639,
+      "id" : 644,
       "form" : "epedes"
     },
     "translations" : [ {
@@ -8368,7 +8433,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 640,
+      "id" : 645,
       "form" : "sonkes"
     },
     "translations" : [ {
@@ -8381,12 +8446,12 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 641,
+      "id" : 646,
       "form" : "enelis"
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "元気である", "活発である" ]
+      "forms" : [ "元気な", "活発な" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8394,7 +8459,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 642,
+      "id" : 647,
       "form" : "apelis"
     },
     "translations" : [ {
@@ -8407,7 +8472,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 643,
+      "id" : 648,
       "form" : "amabes"
     },
     "translations" : [ {
@@ -8420,7 +8485,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 644,
+      "id" : 649,
       "form" : "ifoles"
     },
     "translations" : [ {
@@ -8433,7 +8498,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 645,
+      "id" : 650,
       "form" : "upoles"
     },
     "translations" : [ {
@@ -8446,7 +8511,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 646,
+      "id" : 651,
       "form" : "ekimes"
     },
     "translations" : [ {
@@ -8459,7 +8524,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 647,
+      "id" : 652,
       "form" : "ekeles"
     },
     "translations" : [ {
@@ -8472,7 +8537,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 648,
+      "id" : 653,
       "form" : "etimes"
     },
     "translations" : [ {
@@ -8485,7 +8550,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 649,
+      "id" : 654,
       "form" : "etelas"
     },
     "translations" : [ {
@@ -8498,7 +8563,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 650,
+      "id" : 655,
       "form" : "onades"
     },
     "translations" : [ {
@@ -8511,7 +8576,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 651,
+      "id" : 656,
       "form" : "otoles"
     },
     "translations" : [ {
@@ -8524,7 +8589,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 652,
+      "id" : 657,
       "form" : "jikkis"
     },
     "translations" : [ {
@@ -8537,7 +8602,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 653,
+      "id" : 658,
       "form" : "lattis"
     },
     "translations" : [ {
@@ -8550,7 +8615,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 654,
+      "id" : 659,
       "form" : "lottes"
     },
     "translations" : [ {
@@ -8563,7 +8628,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 655,
+      "id" : 660,
       "form" : "palmes"
     },
     "translations" : [ {
@@ -8576,7 +8641,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 656,
+      "id" : 661,
       "form" : "chepis"
     },
     "translations" : [ {
@@ -8589,7 +8654,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 657,
+      "id" : 662,
       "form" : "shikes"
     },
     "translations" : [ {
@@ -8602,7 +8667,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 658,
+      "id" : 663,
       "form" : "mondis"
     },
     "translations" : [ {
@@ -8615,7 +8680,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 659,
+      "id" : 664,
       "form" : "meffes"
     },
     "translations" : [ {
@@ -8628,7 +8693,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 660,
+      "id" : 665,
       "form" : "apeles"
     },
     "translations" : [ {
@@ -8641,7 +8706,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 661,
+      "id" : 666,
       "form" : "emitas"
     },
     "translations" : [ {
@@ -8654,7 +8719,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 662,
+      "id" : 667,
       "form" : "upawes"
     },
     "translations" : [ {
@@ -8667,7 +8732,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 663,
+      "id" : 668,
       "form" : "kuntas"
     },
     "translations" : [ {
@@ -8680,7 +8745,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 664,
+      "id" : 669,
       "form" : "kyules"
     },
     "translations" : [ {
@@ -8693,7 +8758,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 665,
+      "id" : 670,
       "form" : "shites"
     },
     "translations" : [ {
@@ -8706,7 +8771,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 666,
+      "id" : 671,
       "form" : "awawes"
     },
     "translations" : [ {
@@ -8719,7 +8784,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 667,
+      "id" : 672,
       "form" : "apijes"
     },
     "translations" : [ {
@@ -8732,7 +8797,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 668,
+      "id" : 673,
       "form" : "lotlis"
     },
     "translations" : [ {
@@ -8745,7 +8810,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 669,
+      "id" : 674,
       "form" : "akulis"
     },
     "translations" : [ {
@@ -8758,7 +8823,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 670,
+      "id" : 675,
       "form" : "plukes"
     },
     "translations" : [ {
@@ -8771,7 +8836,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 671,
+      "id" : 676,
       "form" : "lotois"
     },
     "translations" : [ {
@@ -8784,7 +8849,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 672,
+      "id" : 677,
       "form" : "kuunes"
     },
     "translations" : [ {
@@ -8797,7 +8862,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 673,
+      "id" : 678,
       "form" : "mondes"
     },
     "translations" : [ {
@@ -8810,7 +8875,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 674,
+      "id" : 679,
       "form" : "udekan"
     },
     "translations" : [ {
@@ -8823,7 +8888,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 675,
+      "id" : 680,
       "form" : "lyutan"
     },
     "translations" : [ {
@@ -8836,7 +8901,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 676,
+      "id" : 681,
       "form" : "kliwin"
     },
     "translations" : [ {
@@ -8849,7 +8914,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 677,
+      "id" : 682,
       "form" : "plabin"
     },
     "translations" : [ {
@@ -8862,7 +8927,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 678,
+      "id" : 683,
       "form" : "stuwin"
     },
     "translations" : [ {
@@ -8875,7 +8940,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 679,
+      "id" : 684,
       "form" : "lotlin"
     },
     "translations" : [ {
@@ -8888,7 +8953,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 680,
+      "id" : 685,
       "form" : "glikes"
     },
     "translations" : [ {
@@ -8901,7 +8966,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 681,
+      "id" : 686,
       "form" : "hlobis"
     },
     "translations" : [ {
@@ -8914,7 +8979,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 682,
+      "id" : 687,
       "form" : "blotun"
     },
     "translations" : [ {
@@ -8927,7 +8992,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 683,
+      "id" : 688,
       "form" : "bolgen"
     },
     "translations" : [ {
@@ -8940,7 +9005,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 684,
+      "id" : 689,
       "form" : "awohan"
     },
     "translations" : [ {
@@ -8953,7 +9018,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 685,
+      "id" : 690,
       "form" : "tlomin"
     },
     "translations" : [ {
@@ -8966,7 +9031,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 686,
+      "id" : 691,
       "form" : "epeles"
     },
     "translations" : [ {
@@ -8979,7 +9044,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 687,
+      "id" : 692,
       "form" : "holmes"
     },
     "translations" : [ {
@@ -8992,7 +9057,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 688,
+      "id" : 693,
       "form" : "klamon"
     },
     "translations" : [ {
@@ -9005,7 +9070,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 689,
+      "id" : 694,
       "form" : "taches"
     },
     "translations" : [ {
@@ -9018,7 +9083,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 690,
+      "id" : 695,
       "form" : "maakis"
     },
     "translations" : [ {
@@ -9031,7 +9096,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 691,
+      "id" : 696,
       "form" : "kakkes"
     },
     "translations" : [ {
@@ -9044,7 +9109,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 692,
+      "id" : 697,
       "form" : "plakis"
     },
     "translations" : [ {
@@ -9057,7 +9122,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 693,
+      "id" : 698,
       "form" : "plakan"
     },
     "translations" : [ {
@@ -9070,7 +9135,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 694,
+      "id" : 699,
       "form" : "paatis"
     },
     "translations" : [ {
@@ -9083,7 +9148,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 695,
+      "id" : 700,
       "form" : "efeles"
     },
     "translations" : [ {
@@ -9096,7 +9161,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 696,
+      "id" : 701,
       "form" : "tlomes"
     },
     "translations" : [ {
@@ -9109,7 +9174,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 697,
+      "id" : 702,
       "form" : "dilgan"
     },
     "translations" : [ {
@@ -9122,7 +9187,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 698,
+      "id" : 703,
       "form" : "flapen"
     },
     "translations" : [ {
@@ -9135,7 +9200,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 699,
+      "id" : 704,
       "form" : "tepkan"
     },
     "translations" : [ {
@@ -9148,7 +9213,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 700,
+      "id" : 705,
       "form" : "flapes"
     },
     "translations" : [ {
@@ -9161,7 +9226,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 701,
+      "id" : 706,
       "form" : "boogin"
     },
     "translations" : [ {
@@ -9174,7 +9239,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 702,
+      "id" : 707,
       "form" : "sholis"
     },
     "translations" : [ {
@@ -9187,7 +9252,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 703,
+      "id" : 708,
       "form" : "flabes"
     },
     "translations" : [ {
@@ -9200,7 +9265,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 704,
+      "id" : 709,
       "form" : "apojin"
     },
     "translations" : [ {
@@ -9213,7 +9278,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 705,
+      "id" : 710,
       "form" : "elakin"
     },
     "translations" : [ {
@@ -9226,7 +9291,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 706,
+      "id" : 711,
       "form" : "flopon"
     },
     "translations" : [ {
@@ -9239,7 +9304,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 707,
+      "id" : 712,
       "form" : "blomin"
     },
     "translations" : [ {
@@ -9252,7 +9317,72 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 708,
+      "id" : 713,
+      "form" : "olikan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "秋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 714,
+      "form" : "efedan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "冬" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 715,
+      "form" : "ekaton"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "岬", "突堤" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 716,
+      "form" : "kalmon"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "助け", "補助", "救助" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 717,
+      "form" : "kedips"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "生きている", "生存している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 718,
       "form" : "watakan"
     },
     "translations" : [ {
@@ -9265,20 +9395,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 709,
-      "form" : "likomis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "回る", "回転する", "転がる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 710,
+      "id" : 719,
       "form" : "mikewan"
     },
     "translations" : [ {
@@ -9291,7 +9408,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 711,
+      "id" : 720,
       "form" : "mikewis"
     },
     "translations" : [ {
@@ -9304,7 +9421,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 712,
+      "id" : 721,
       "form" : "kabolis"
     },
     "translations" : [ {
@@ -9317,7 +9434,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 713,
+      "id" : 722,
       "form" : "fetelis"
     },
     "translations" : [ {
@@ -9330,7 +9447,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 714,
+      "id" : 723,
       "form" : "lomaban"
     },
     "translations" : [ {
@@ -9343,7 +9460,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 715,
+      "id" : 724,
       "form" : "keizain"
     },
     "translations" : [ {
@@ -9356,7 +9473,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 716,
+      "id" : 725,
       "form" : "kalesen"
     },
     "translations" : [ {
@@ -9369,7 +9486,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 717,
+      "id" : 726,
       "form" : "fekalin"
     },
     "translations" : [ {
@@ -9382,7 +9499,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 718,
+      "id" : 727,
       "form" : "kalihin"
     },
     "translations" : [ {
@@ -9395,7 +9512,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 719,
+      "id" : 728,
       "form" : "mapelin"
     },
     "translations" : [ {
@@ -9408,7 +9525,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 720,
+      "id" : 729,
       "form" : "jelakun"
     },
     "translations" : [ {
@@ -9421,7 +9538,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 721,
+      "id" : 730,
       "form" : "ahassan"
     },
     "translations" : [ {
@@ -9434,7 +9551,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 722,
+      "id" : 731,
       "form" : "hatelan"
     },
     "translations" : [ {
@@ -9447,7 +9564,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 723,
+      "id" : 732,
       "form" : "gotelan"
     },
     "translations" : [ {
@@ -9460,7 +9577,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 724,
+      "id" : 733,
       "form" : "himalan"
     },
     "translations" : [ {
@@ -9473,7 +9590,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 725,
+      "id" : 734,
       "form" : "hasawin"
     },
     "translations" : [ {
@@ -9486,7 +9603,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 726,
+      "id" : 735,
       "form" : "litanen"
     },
     "translations" : [ {
@@ -9499,7 +9616,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 727,
+      "id" : 736,
       "form" : "nobalin"
     },
     "translations" : [ {
@@ -9512,7 +9629,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 728,
+      "id" : 737,
       "form" : "kalesin"
     },
     "translations" : [ {
@@ -9525,7 +9642,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 729,
+      "id" : 738,
       "form" : "kidepan"
     },
     "translations" : [ {
@@ -9538,7 +9655,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 730,
+      "id" : 739,
       "form" : "taleson"
     },
     "translations" : [ {
@@ -9551,7 +9668,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 731,
+      "id" : 740,
       "form" : "ludenin"
     },
     "translations" : [ {
@@ -9564,7 +9681,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 732,
+      "id" : 741,
       "form" : "tajiben"
     },
     "translations" : [ {
@@ -9577,7 +9694,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 733,
+      "id" : 742,
       "form" : "nolamin"
     },
     "translations" : [ {
@@ -9590,7 +9707,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 734,
+      "id" : 743,
       "form" : "manolan"
     },
     "translations" : [ {
@@ -9603,7 +9720,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 735,
+      "id" : 744,
       "form" : "kunowan"
     },
     "translations" : [ {
@@ -9616,7 +9733,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 736,
+      "id" : 745,
       "form" : "hawalan"
     },
     "translations" : [ {
@@ -9629,7 +9746,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 737,
+      "id" : 746,
       "form" : "alaskan"
     },
     "translations" : [ {
@@ -9642,7 +9759,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 738,
+      "id" : 747,
       "form" : "talowan"
     },
     "translations" : [ {
@@ -9655,7 +9772,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 739,
+      "id" : 748,
       "form" : "malalan"
     },
     "translations" : [ {
@@ -9668,7 +9785,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 740,
+      "id" : 749,
       "form" : "sowalan"
     },
     "translations" : [ {
@@ -9681,7 +9798,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 741,
+      "id" : 750,
       "form" : "kudolan"
     },
     "translations" : [ {
@@ -9694,7 +9811,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 742,
+      "id" : 751,
       "form" : "mobalan"
     },
     "translations" : [ {
@@ -9707,7 +9824,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 743,
+      "id" : 752,
       "form" : "halipan"
     },
     "translations" : [ {
@@ -9720,7 +9837,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 744,
+      "id" : 753,
       "form" : "lasadan"
     },
     "translations" : [ {
@@ -9733,7 +9850,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 745,
+      "id" : 754,
       "form" : "jumikan"
     },
     "translations" : [ {
@@ -9746,7 +9863,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 746,
+      "id" : 755,
       "form" : "polesan"
     },
     "translations" : [ {
@@ -9762,7 +9879,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 747,
+      "id" : 756,
       "form" : "batolan"
     },
     "translations" : [ {
@@ -9775,7 +9892,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 748,
+      "id" : 757,
       "form" : "tanawan"
     },
     "translations" : [ {
@@ -9788,7 +9905,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 749,
+      "id" : 758,
       "form" : "nemeyan"
     },
     "translations" : [ {
@@ -9801,7 +9918,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 750,
+      "id" : 759,
       "form" : "homezan"
     },
     "translations" : [ {
@@ -9814,7 +9931,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 751,
+      "id" : 760,
       "form" : "henesan"
     },
     "translations" : [ {
@@ -9827,7 +9944,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 752,
+      "id" : 761,
       "form" : "zamilan"
     },
     "translations" : [ {
@@ -9840,7 +9957,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 753,
+      "id" : 762,
       "form" : "bilekan"
     },
     "translations" : [ {
@@ -9853,7 +9970,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 754,
+      "id" : 763,
       "form" : "watolan"
     },
     "translations" : [ {
@@ -9866,7 +9983,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 755,
+      "id" : 764,
       "form" : "matolan"
     },
     "translations" : [ {
@@ -9879,7 +9996,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 756,
+      "id" : 765,
       "form" : "modolan"
     },
     "translations" : [ {
@@ -9892,7 +10009,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 757,
+      "id" : 766,
       "form" : "mapatan"
     },
     "translations" : [ {
@@ -9905,7 +10022,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 758,
+      "id" : 767,
       "form" : "mapitan"
     },
     "translations" : [ {
@@ -9918,7 +10035,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 759,
+      "id" : 768,
       "form" : "bizakan"
     },
     "translations" : [ {
@@ -9931,7 +10048,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 760,
+      "id" : 769,
       "form" : "lyukkan"
     },
     "translations" : [ {
@@ -9944,7 +10061,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 761,
+      "id" : 770,
       "form" : "putolan"
     },
     "translations" : [ {
@@ -9957,7 +10074,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 762,
+      "id" : 771,
       "form" : "kaleson"
     },
     "translations" : [ {
@@ -9970,7 +10087,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 763,
+      "id" : 772,
       "form" : "estakan"
     },
     "translations" : [ {
@@ -9983,20 +10100,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 764,
-      "form" : "olinkan"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "秋" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 765,
+      "id" : 773,
       "form" : "ezettan"
     },
     "translations" : [ {
@@ -10009,20 +10113,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 766,
-      "form" : "efendan"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "冬" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 767,
+      "id" : 774,
       "form" : "gatowan"
     },
     "translations" : [ {
@@ -10035,7 +10126,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 768,
+      "id" : 775,
       "form" : "bukalan"
     },
     "translations" : [ {
@@ -10048,7 +10139,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 769,
+      "id" : 776,
       "form" : "bonawan"
     },
     "translations" : [ {
@@ -10061,7 +10152,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 770,
+      "id" : 777,
       "form" : "junakan"
     },
     "translations" : [ {
@@ -10074,7 +10165,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 771,
+      "id" : 778,
       "form" : "jemelan"
     },
     "translations" : [ {
@@ -10087,7 +10178,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 772,
+      "id" : 779,
       "form" : "jibulan"
     },
     "translations" : [ {
@@ -10100,7 +10191,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 773,
+      "id" : 780,
       "form" : "janezan"
     },
     "translations" : [ {
@@ -10113,7 +10204,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 774,
+      "id" : 781,
       "form" : "dowanan"
     },
     "translations" : [ {
@@ -10129,7 +10220,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 775,
+      "id" : 782,
       "form" : "demilan"
     },
     "translations" : [ {
@@ -10142,7 +10233,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 776,
+      "id" : 783,
       "form" : "zapikan"
     },
     "translations" : [ {
@@ -10155,7 +10246,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 777,
+      "id" : 784,
       "form" : "palohan"
     },
     "translations" : [ {
@@ -10168,7 +10259,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 778,
+      "id" : 785,
       "form" : "zekeman"
     },
     "translations" : [ {
@@ -10181,7 +10272,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 779,
+      "id" : 786,
       "form" : "laputan"
     },
     "translations" : [ {
@@ -10194,7 +10285,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 780,
+      "id" : 787,
       "form" : "latalan"
     },
     "translations" : [ {
@@ -10207,7 +10298,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 781,
+      "id" : 788,
       "form" : "lamakan"
     },
     "translations" : [ {
@@ -10220,7 +10311,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 782,
+      "id" : 789,
       "form" : "lotoban"
     },
     "translations" : [ {
@@ -10233,7 +10324,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 783,
+      "id" : 790,
       "form" : "leganan"
     },
     "translations" : [ {
@@ -10246,7 +10337,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 784,
+      "id" : 791,
       "form" : "lepanan"
     },
     "translations" : [ {
@@ -10259,7 +10350,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 785,
+      "id" : 792,
       "form" : "lepokan"
     },
     "translations" : [ {
@@ -10272,7 +10363,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 786,
+      "id" : 793,
       "form" : "lisegan"
     },
     "translations" : [ {
@@ -10285,7 +10376,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 787,
+      "id" : 794,
       "form" : "waguman"
     },
     "translations" : [ {
@@ -10298,7 +10389,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 788,
+      "id" : 795,
       "form" : "hadasan"
     },
     "translations" : [ {
@@ -10311,7 +10402,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 789,
+      "id" : 796,
       "form" : "hasilan"
     },
     "translations" : [ {
@@ -10324,7 +10415,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 790,
+      "id" : 797,
       "form" : "hesaman"
     },
     "translations" : [ {
@@ -10337,7 +10428,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 791,
+      "id" : 798,
       "form" : "hunilan"
     },
     "translations" : [ {
@@ -10350,7 +10441,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 792,
+      "id" : 799,
       "form" : "kapulan"
     },
     "translations" : [ {
@@ -10363,7 +10454,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 793,
+      "id" : 800,
       "form" : "kafilan"
     },
     "translations" : [ {
@@ -10376,7 +10467,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 794,
+      "id" : 801,
       "form" : "katolan"
     },
     "translations" : [ {
@@ -10392,7 +10483,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 795,
+      "id" : 802,
       "form" : "kulaman"
     },
     "translations" : [ {
@@ -10405,7 +10496,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 796,
+      "id" : 803,
       "form" : "kibenan"
     },
     "translations" : [ {
@@ -10418,7 +10509,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 797,
+      "id" : 804,
       "form" : "kikiban"
     },
     "translations" : [ {
@@ -10431,7 +10522,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 798,
+      "id" : 805,
       "form" : "klaptan"
     },
     "translations" : [ {
@@ -10444,7 +10535,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 799,
+      "id" : 806,
       "form" : "padowan"
     },
     "translations" : [ {
@@ -10457,7 +10548,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 800,
+      "id" : 807,
       "form" : "padolan"
     },
     "translations" : [ {
@@ -10470,7 +10561,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 801,
+      "id" : 808,
       "form" : "pigalan"
     },
     "translations" : [ {
@@ -10483,7 +10574,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 802,
+      "id" : 809,
       "form" : "pidilan"
     },
     "translations" : [ {
@@ -10496,7 +10587,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 803,
+      "id" : 810,
       "form" : "pilaman"
     },
     "translations" : [ {
@@ -10509,7 +10600,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 804,
+      "id" : 811,
       "form" : "poloman"
     },
     "translations" : [ {
@@ -10522,7 +10613,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 805,
+      "id" : 812,
       "form" : "chiklan"
     },
     "translations" : [ {
@@ -10535,7 +10626,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 806,
+      "id" : 813,
       "form" : "fabaman"
     },
     "translations" : [ {
@@ -10548,7 +10639,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 807,
+      "id" : 814,
       "form" : "figuman"
     },
     "translations" : [ {
@@ -10561,7 +10652,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 808,
+      "id" : 815,
       "form" : "feliman"
     },
     "translations" : [ {
@@ -10574,7 +10665,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 809,
+      "id" : 816,
       "form" : "tagolan"
     },
     "translations" : [ {
@@ -10587,7 +10678,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 810,
+      "id" : 817,
       "form" : "tabakan"
     },
     "translations" : [ {
@@ -10600,7 +10691,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 811,
+      "id" : 818,
       "form" : "tafinan"
     },
     "translations" : [ {
@@ -10613,7 +10704,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 812,
+      "id" : 819,
       "form" : "tomikan"
     },
     "translations" : [ {
@@ -10626,7 +10717,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 813,
+      "id" : 820,
       "form" : "tonalan"
     },
     "translations" : [ {
@@ -10639,7 +10730,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 814,
+      "id" : 821,
       "form" : "tolunan"
     },
     "translations" : [ {
@@ -10652,7 +10743,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 815,
+      "id" : 822,
       "form" : "tedelan"
     },
     "translations" : [ {
@@ -10665,7 +10756,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 816,
+      "id" : 823,
       "form" : "tewelan"
     },
     "translations" : [ {
@@ -10678,7 +10769,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 817,
+      "id" : 824,
       "form" : "teneman"
     },
     "translations" : [ {
@@ -10691,7 +10782,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 818,
+      "id" : 825,
       "form" : "sadolan"
     },
     "translations" : [ {
@@ -10704,7 +10795,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 819,
+      "id" : 826,
       "form" : "salikan"
     },
     "translations" : [ {
@@ -10717,7 +10808,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 820,
+      "id" : 827,
       "form" : "sawalan"
     },
     "translations" : [ {
@@ -10733,7 +10824,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 821,
+      "id" : 828,
       "form" : "tenelan"
     },
     "translations" : [ {
@@ -10746,7 +10837,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 822,
+      "id" : 829,
       "form" : "sheeman"
     },
     "translations" : [ {
@@ -10759,7 +10850,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 823,
+      "id" : 830,
       "form" : "maliwan"
     },
     "translations" : [ {
@@ -10775,7 +10866,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 824,
+      "id" : 831,
       "form" : "makalan"
     },
     "translations" : [ {
@@ -10788,7 +10879,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 825,
+      "id" : 832,
       "form" : "makudan"
     },
     "translations" : [ {
@@ -10801,7 +10892,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 826,
+      "id" : 833,
       "form" : "maputan"
     },
     "translations" : [ {
@@ -10814,7 +10905,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 827,
+      "id" : 834,
       "form" : "matalan"
     },
     "translations" : [ {
@@ -10827,7 +10918,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 828,
+      "id" : 835,
       "form" : "matowan"
     },
     "translations" : [ {
@@ -10840,7 +10931,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 829,
+      "id" : 836,
       "form" : "molesan"
     },
     "translations" : [ {
@@ -10853,7 +10944,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 830,
+      "id" : 837,
       "form" : "mokalan"
     },
     "translations" : [ {
@@ -10866,7 +10957,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 831,
+      "id" : 838,
       "form" : "nahonan"
     },
     "translations" : [ {
@@ -10879,7 +10970,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 832,
+      "id" : 839,
       "form" : "nakasan"
     },
     "translations" : [ {
@@ -10892,7 +10983,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 833,
+      "id" : 840,
       "form" : "napelan"
     },
     "translations" : [ {
@@ -10905,7 +10996,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 834,
+      "id" : 841,
       "form" : "nafasan"
     },
     "translations" : [ {
@@ -10921,7 +11012,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 835,
+      "id" : 842,
       "form" : "natowan"
     },
     "translations" : [ {
@@ -10934,7 +11025,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 836,
+      "id" : 843,
       "form" : "natelin"
     },
     "translations" : [ {
@@ -10947,7 +11038,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 837,
+      "id" : 844,
       "form" : "namadan"
     },
     "translations" : [ {
@@ -10960,7 +11051,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 838,
+      "id" : 845,
       "form" : "nikolan"
     },
     "translations" : [ {
@@ -10973,7 +11064,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 839,
+      "id" : 846,
       "form" : "netiman"
     },
     "translations" : [ {
@@ -10986,7 +11077,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 840,
+      "id" : 847,
       "form" : "lokotan"
     },
     "translations" : [ {
@@ -10999,7 +11090,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 841,
+      "id" : 848,
       "form" : "oluchin"
     },
     "translations" : [ {
@@ -11012,8 +11103,8 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 842,
-      "form" : "lagotan"
+      "id" : 849,
+      "form" : "galotan"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -11025,7 +11116,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 843,
+      "id" : 850,
       "form" : "lipotan"
     },
     "translations" : [ {
@@ -11038,7 +11129,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 844,
+      "id" : 851,
       "form" : "lagahan"
     },
     "translations" : [ {
@@ -11051,7 +11142,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 845,
+      "id" : 852,
       "form" : "kahazan"
     },
     "translations" : [ {
@@ -11064,7 +11155,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 846,
+      "id" : 853,
       "form" : "lahezan"
     },
     "translations" : [ {
@@ -11077,7 +11168,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 847,
+      "id" : 854,
       "form" : "kalaman"
     },
     "translations" : [ {
@@ -11090,7 +11181,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 848,
+      "id" : 855,
       "form" : "monakan"
     },
     "translations" : [ {
@@ -11103,7 +11194,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 849,
+      "id" : 856,
       "form" : "besekan"
     },
     "translations" : [ {
@@ -11116,7 +11207,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 850,
+      "id" : 857,
       "form" : "mapalan"
     },
     "translations" : [ {
@@ -11129,7 +11220,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 851,
+      "id" : 858,
       "form" : "medowan"
     },
     "translations" : [ {
@@ -11142,7 +11233,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 852,
+      "id" : 859,
       "form" : "lajilan"
     },
     "translations" : [ {
@@ -11155,7 +11246,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 853,
+      "id" : 860,
       "form" : "ushesan"
     },
     "translations" : [ {
@@ -11168,7 +11259,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 854,
+      "id" : 861,
       "form" : "kotoban"
     },
     "translations" : [ {
@@ -11181,7 +11272,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 855,
+      "id" : 862,
       "form" : "katoban"
     },
     "translations" : [ {
@@ -11194,7 +11285,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 856,
+      "id" : 863,
       "form" : "gosinan"
     },
     "translations" : [ {
@@ -11207,7 +11298,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 857,
+      "id" : 864,
       "form" : "lahesan"
     },
     "translations" : [ {
@@ -11220,7 +11311,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 858,
+      "id" : 865,
       "form" : "bolemin"
     },
     "translations" : [ {
@@ -11233,7 +11324,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 859,
+      "id" : 866,
       "form" : "kohiman"
     },
     "translations" : [ {
@@ -11246,7 +11337,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 860,
+      "id" : 867,
       "form" : "belukan"
     },
     "translations" : [ {
@@ -11259,7 +11350,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 861,
+      "id" : 868,
       "form" : "kajitan"
     },
     "translations" : [ {
@@ -11272,7 +11363,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 862,
+      "id" : 869,
       "form" : "peyokin"
     },
     "translations" : [ {
@@ -11285,7 +11376,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 863,
+      "id" : 870,
       "form" : "myatles"
     },
     "translations" : [ {
@@ -11298,7 +11389,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 864,
+      "id" : 871,
       "form" : "milukes"
     },
     "translations" : [ {
@@ -11311,7 +11402,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 865,
+      "id" : 872,
       "form" : "halubis"
     },
     "translations" : [ {
@@ -11324,7 +11415,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 866,
+      "id" : 873,
       "form" : "jakulin"
     },
     "translations" : [ {
@@ -11337,7 +11428,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 867,
+      "id" : 874,
       "form" : "splabis"
     },
     "translations" : [ {
@@ -11350,7 +11441,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 868,
+      "id" : 875,
       "form" : "splabes"
     },
     "translations" : [ {
@@ -11363,7 +11454,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 869,
+      "id" : 876,
       "form" : "kalihis"
     },
     "translations" : [ {
@@ -11376,7 +11467,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 870,
+      "id" : 877,
       "form" : "lekilis"
     },
     "translations" : [ {
@@ -11389,7 +11480,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 871,
+      "id" : 878,
       "form" : "yumowis"
     },
     "translations" : [ {
@@ -11402,7 +11493,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 872,
+      "id" : 879,
       "form" : "fidolis"
     },
     "translations" : [ {
@@ -11415,7 +11506,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 873,
+      "id" : 880,
       "form" : "negolis"
     },
     "translations" : [ {
@@ -11428,7 +11519,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 874,
+      "id" : 881,
       "form" : "atsuwes"
     },
     "translations" : [ {
@@ -11441,7 +11532,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 875,
+      "id" : 882,
       "form" : "towelis"
     },
     "translations" : [ {
@@ -11454,7 +11545,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 876,
+      "id" : 883,
       "form" : "aololis"
     },
     "translations" : [ {
@@ -11470,7 +11561,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 877,
+      "id" : 884,
       "form" : "solowis"
     },
     "translations" : [ {
@@ -11483,7 +11574,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 878,
+      "id" : 885,
       "form" : "mitalis"
     },
     "translations" : [ {
@@ -11496,7 +11587,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 879,
+      "id" : 886,
       "form" : "lonizis"
     },
     "translations" : [ {
@@ -11509,7 +11600,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 880,
+      "id" : 887,
       "form" : "limibes"
     },
     "translations" : [ {
@@ -11522,7 +11613,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 881,
+      "id" : 888,
       "form" : "uletsis"
     },
     "translations" : [ {
@@ -11535,7 +11626,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 882,
+      "id" : 889,
       "form" : "eletsis"
     },
     "translations" : [ {
@@ -11548,7 +11639,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 883,
+      "id" : 890,
       "form" : "gokowis"
     },
     "translations" : [ {
@@ -11561,7 +11652,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 884,
+      "id" : 891,
       "form" : "jamelis"
     },
     "translations" : [ {
@@ -11574,7 +11665,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 885,
+      "id" : 892,
       "form" : "zapikis"
     },
     "translations" : [ {
@@ -11587,7 +11678,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 886,
+      "id" : 893,
       "form" : "zonozis"
     },
     "translations" : [ {
@@ -11600,7 +11691,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 887,
+      "id" : 894,
       "form" : "lamakis"
     },
     "translations" : [ {
@@ -11613,7 +11704,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 888,
+      "id" : 895,
       "form" : "lukanis"
     },
     "translations" : [ {
@@ -11626,7 +11717,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 889,
+      "id" : 896,
       "form" : "konokis"
     },
     "translations" : [ {
@@ -11639,7 +11730,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 890,
+      "id" : 897,
       "form" : "kezonis"
     },
     "translations" : [ {
@@ -11652,7 +11743,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 891,
+      "id" : 898,
       "form" : "chiilis"
     },
     "translations" : [ {
@@ -11665,7 +11756,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 892,
+      "id" : 899,
       "form" : "fobosis"
     },
     "translations" : [ {
@@ -11678,7 +11769,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 893,
+      "id" : 900,
       "form" : "femugis"
     },
     "translations" : [ {
@@ -11691,7 +11782,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 894,
+      "id" : 901,
       "form" : "telepis"
     },
     "translations" : [ {
@@ -11704,7 +11795,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 895,
+      "id" : 902,
       "form" : "mitowis"
     },
     "translations" : [ {
@@ -11717,7 +11808,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 896,
+      "id" : 903,
       "form" : "medalis"
     },
     "translations" : [ {
@@ -11730,7 +11821,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 897,
+      "id" : 904,
       "form" : "mekolis"
     },
     "translations" : [ {
@@ -11743,7 +11834,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 898,
+      "id" : 905,
       "form" : "napukis"
     },
     "translations" : [ {
@@ -11756,7 +11847,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 899,
+      "id" : 906,
       "form" : "sonalis"
     },
     "translations" : [ {
@@ -11769,12 +11860,12 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 900,
+      "id" : 907,
       "form" : "wapamis"
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "なまめかしい", "エロい" ]
+      "forms" : [ "なまめかしい", "エロい", "性的な", "煽情的な", "エッチな" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -11782,7 +11873,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 901,
+      "id" : 908,
       "form" : "medowis"
     },
     "translations" : [ {
@@ -11795,7 +11886,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 902,
+      "id" : 909,
       "form" : "lazatis"
     },
     "translations" : [ {
@@ -11808,7 +11899,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 903,
+      "id" : 910,
       "form" : "nitekes"
     },
     "translations" : [ {
@@ -11821,7 +11912,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 904,
+      "id" : 911,
       "form" : "lukales"
     },
     "translations" : [ {
@@ -11834,7 +11925,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 905,
+      "id" : 912,
       "form" : "bikomes"
     },
     "translations" : [ {
@@ -11847,7 +11938,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 906,
+      "id" : 913,
       "form" : "hatawes"
     },
     "translations" : [ {
@@ -11860,7 +11951,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 907,
+      "id" : 914,
       "form" : "likedes"
     },
     "translations" : [ {
@@ -11873,7 +11964,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 908,
+      "id" : 915,
       "form" : "halipes"
     },
     "translations" : [ {
@@ -11886,7 +11977,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 909,
+      "id" : 916,
       "form" : "suneles"
     },
     "translations" : [ {
@@ -11899,7 +11990,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 910,
+      "id" : 917,
       "form" : "lapises"
     },
     "translations" : [ {
@@ -11912,7 +12003,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 911,
+      "id" : 918,
       "form" : "wotoles"
     },
     "translations" : [ {
@@ -11925,7 +12016,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 912,
+      "id" : 919,
       "form" : "negoles"
     },
     "translations" : [ {
@@ -11938,7 +12029,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 913,
+      "id" : 920,
       "form" : "limowes"
     },
     "translations" : [ {
@@ -11951,7 +12042,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 914,
+      "id" : 921,
       "form" : "latolis"
     },
     "translations" : [ {
@@ -11964,7 +12055,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 915,
+      "id" : 922,
       "form" : "lekemes"
     },
     "translations" : [ {
@@ -11977,7 +12068,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 916,
+      "id" : 923,
       "form" : "zamiles"
     },
     "translations" : [ {
@@ -11990,7 +12081,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 917,
+      "id" : 924,
       "form" : "litames"
     },
     "translations" : [ {
@@ -12003,7 +12094,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 918,
+      "id" : 925,
       "form" : "mekolos"
     },
     "translations" : [ {
@@ -12016,7 +12107,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 919,
+      "id" : 926,
       "form" : "wapikes"
     },
     "translations" : [ {
@@ -12029,7 +12120,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 920,
+      "id" : 927,
       "form" : "tokalis"
     },
     "translations" : [ {
@@ -12042,7 +12133,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 921,
+      "id" : 928,
       "form" : "jibawis"
     },
     "translations" : [ {
@@ -12055,7 +12146,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 922,
+      "id" : 929,
       "form" : "gedelis"
     },
     "translations" : [ {
@@ -12068,7 +12159,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 923,
+      "id" : 930,
       "form" : "nipelis"
     },
     "translations" : [ {
@@ -12081,7 +12172,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 924,
+      "id" : 931,
       "form" : "godolis"
     },
     "translations" : [ {
@@ -12094,7 +12185,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 925,
+      "id" : 932,
       "form" : "abanles"
     },
     "translations" : [ {
@@ -12107,7 +12198,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 926,
+      "id" : 933,
       "form" : "ubasses"
     },
     "translations" : [ {
@@ -12120,7 +12211,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 927,
+      "id" : 934,
       "form" : "eletsis"
     },
     "translations" : [ {
@@ -12133,7 +12224,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 928,
+      "id" : 935,
       "form" : "bakomis"
     },
     "translations" : [ {
@@ -12146,7 +12237,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 929,
+      "id" : 936,
       "form" : "bekimes"
     },
     "translations" : [ {
@@ -12159,7 +12250,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 930,
+      "id" : 937,
       "form" : "dukeles"
     },
     "translations" : [ {
@@ -12172,7 +12263,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 931,
+      "id" : 938,
       "form" : "zolokes"
     },
     "translations" : [ {
@@ -12185,7 +12276,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 932,
+      "id" : 939,
       "form" : "zemekis"
     },
     "translations" : [ {
@@ -12198,7 +12289,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 933,
+      "id" : 940,
       "form" : "zemekes"
     },
     "translations" : [ {
@@ -12211,7 +12302,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 934,
+      "id" : 941,
       "form" : "mekelis"
     },
     "translations" : [ {
@@ -12224,7 +12315,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 935,
+      "id" : 942,
       "form" : "mekeles"
     },
     "translations" : [ {
@@ -12237,7 +12328,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 936,
+      "id" : 943,
       "form" : "lotoles"
     },
     "translations" : [ {
@@ -12250,7 +12341,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 937,
+      "id" : 944,
       "form" : "lisegis"
     },
     "translations" : [ {
@@ -12263,7 +12354,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 938,
+      "id" : 945,
       "form" : "hattlis"
     },
     "translations" : [ {
@@ -12276,7 +12367,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 939,
+      "id" : 946,
       "form" : "himeyes"
     },
     "translations" : [ {
@@ -12289,7 +12380,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 940,
+      "id" : 947,
       "form" : "kolomes"
     },
     "translations" : [ {
@@ -12302,7 +12393,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 941,
+      "id" : 948,
       "form" : "kefelas"
     },
     "translations" : [ {
@@ -12315,7 +12406,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 942,
+      "id" : 949,
       "form" : "polones"
     },
     "translations" : [ {
@@ -12328,7 +12419,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 943,
+      "id" : 950,
       "form" : "fakales"
     },
     "translations" : [ {
@@ -12341,7 +12432,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 944,
+      "id" : 951,
       "form" : "fabames"
     },
     "translations" : [ {
@@ -12354,7 +12445,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 945,
+      "id" : 952,
       "form" : "fibomis"
     },
     "translations" : [ {
@@ -12367,7 +12458,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 946,
+      "id" : 953,
       "form" : "fetalis"
     },
     "translations" : [ {
@@ -12380,7 +12471,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 947,
+      "id" : 954,
       "form" : "sabayes"
     },
     "translations" : [ {
@@ -12393,7 +12484,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 948,
+      "id" : 955,
       "form" : "samelas"
     },
     "translations" : [ {
@@ -12406,7 +12497,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 949,
+      "id" : 956,
       "form" : "shantis"
     },
     "translations" : [ {
@@ -12419,7 +12510,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 950,
+      "id" : 957,
       "form" : "shiimis"
     },
     "translations" : [ {
@@ -12432,7 +12523,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 951,
+      "id" : 958,
       "form" : "matales"
     },
     "translations" : [ {
@@ -12445,7 +12536,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 952,
+      "id" : 959,
       "form" : "matelis"
     },
     "translations" : [ {
@@ -12458,7 +12549,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 953,
+      "id" : 960,
       "form" : "melakes"
     },
     "translations" : [ {
@@ -12471,7 +12562,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 954,
+      "id" : 961,
       "form" : "monakes"
     },
     "translations" : [ {
@@ -12484,7 +12575,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 955,
+      "id" : 962,
       "form" : "medowes"
     },
     "translations" : [ {
@@ -12497,7 +12588,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 956,
+      "id" : 963,
       "form" : "mekolis"
     },
     "translations" : [ {
@@ -12510,7 +12601,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 957,
+      "id" : 964,
       "form" : "metolas"
     },
     "translations" : [ {
@@ -12523,7 +12614,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 958,
+      "id" : 965,
       "form" : "nakases"
     },
     "translations" : [ {
@@ -12536,7 +12627,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 959,
+      "id" : 966,
       "form" : "huneles"
     },
     "translations" : [ {
@@ -12549,7 +12640,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 960,
+      "id" : 967,
       "form" : "toweles"
     },
     "translations" : [ {
@@ -12562,7 +12653,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 961,
+      "id" : 968,
       "form" : "wapamas"
     },
     "translations" : [ {
@@ -12575,7 +12666,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 962,
+      "id" : 969,
       "form" : "polomis"
     },
     "translations" : [ {
@@ -12588,7 +12679,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 963,
+      "id" : 970,
       "form" : "kedeles"
     },
     "translations" : [ {
@@ -12601,7 +12692,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 964,
+      "id" : 971,
       "form" : "kaloles"
     },
     "translations" : [ {
@@ -12614,7 +12705,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 965,
+      "id" : 972,
       "form" : "lukayus"
     },
     "translations" : [ {
@@ -12627,7 +12718,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 966,
+      "id" : 973,
       "form" : "gopolan"
     },
     "translations" : [ {
@@ -12640,7 +12731,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 967,
+      "id" : 974,
       "form" : "kalosen"
     },
     "translations" : [ {
@@ -12653,7 +12744,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 968,
+      "id" : 975,
       "form" : "pajalon"
     },
     "translations" : [ {
@@ -12666,7 +12757,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 969,
+      "id" : 976,
       "form" : "eletses"
     },
     "translations" : [ {
@@ -12679,7 +12770,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 970,
+      "id" : 977,
       "form" : "nameges"
     },
     "translations" : [ {
@@ -12692,7 +12783,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 971,
+      "id" : 978,
       "form" : "talotes"
     },
     "translations" : [ {
@@ -12705,7 +12796,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 972,
+      "id" : 979,
       "form" : "malamin"
     },
     "translations" : [ {
@@ -12718,7 +12809,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 973,
+      "id" : 980,
       "form" : "diliwin"
     },
     "translations" : [ {
@@ -12731,7 +12822,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 974,
+      "id" : 981,
       "form" : "felimis"
     },
     "translations" : [ {
@@ -12744,7 +12835,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 975,
+      "id" : 982,
       "form" : "zatafan"
     },
     "translations" : [ {
@@ -12757,7 +12848,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 976,
+      "id" : 983,
       "form" : "batolin"
     },
     "translations" : [ {
@@ -12770,7 +12861,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 977,
+      "id" : 984,
       "form" : "hagales"
     },
     "translations" : [ {
@@ -12783,7 +12874,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 978,
+      "id" : 985,
       "form" : "pitilin"
     },
     "translations" : [ {
@@ -12796,7 +12887,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 979,
+      "id" : 986,
       "form" : "telamis"
     },
     "translations" : [ {
@@ -12809,7 +12900,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 980,
+      "id" : 987,
       "form" : "litilin"
     },
     "translations" : [ {
@@ -12822,7 +12913,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 981,
+      "id" : 988,
       "form" : "demakon"
     },
     "translations" : [ {
@@ -12835,7 +12926,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 982,
+      "id" : 989,
       "form" : "dafigon"
     },
     "translations" : [ {
@@ -12848,7 +12939,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 983,
+      "id" : 990,
       "form" : "difigin"
     },
     "translations" : [ {
@@ -12861,7 +12952,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 984,
+      "id" : 991,
       "form" : "lukamin"
     },
     "translations" : [ {
@@ -12874,7 +12965,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 985,
+      "id" : 992,
       "form" : "hagalin"
     },
     "translations" : [ {
@@ -12887,7 +12978,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 986,
+      "id" : 993,
       "form" : "kulimes"
     },
     "translations" : [ {
@@ -12900,7 +12991,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 987,
+      "id" : 994,
       "form" : "hatawen"
     },
     "translations" : [ {
@@ -12913,7 +13004,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 988,
+      "id" : 995,
       "form" : "hatayan"
     },
     "translations" : [ {
@@ -12926,7 +13017,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 989,
+      "id" : 996,
       "form" : "letelis"
     },
     "translations" : [ {
@@ -12939,7 +13030,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 990,
+      "id" : 997,
       "form" : "telates"
     },
     "translations" : [ {
@@ -12952,7 +13043,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 991,
+      "id" : 998,
       "form" : "kilibon"
     },
     "translations" : [ {
@@ -12965,7 +13056,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 992,
+      "id" : 999,
       "form" : "peyokes"
     },
     "translations" : [ {
@@ -12978,7 +13069,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 993,
+      "id" : 1000,
       "form" : "linomin"
     },
     "translations" : [ {
@@ -12991,7 +13082,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 994,
+      "id" : 1001,
       "form" : "dolawan"
     },
     "translations" : [ {
@@ -13004,7 +13095,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 995,
+      "id" : 1002,
       "form" : "medowas"
     },
     "translations" : [ {
@@ -13017,7 +13108,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 996,
+      "id" : 1003,
       "form" : "kamuden"
     },
     "translations" : [ {
@@ -13030,7 +13121,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 997,
+      "id" : 1004,
       "form" : "jehipin"
     },
     "translations" : [ {
@@ -13043,7 +13134,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 998,
+      "id" : 1005,
       "form" : "glablis"
     },
     "translations" : [ {
@@ -13056,7 +13147,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 999,
+      "id" : 1006,
       "form" : "iklimen"
     },
     "translations" : [ {
@@ -13069,7 +13160,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1000,
+      "id" : 1007,
       "form" : "aklokon"
     },
     "translations" : [ {
@@ -13082,7 +13173,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1001,
+      "id" : 1008,
       "form" : "takabon"
     },
     "translations" : [ {
@@ -13095,7 +13186,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1002,
+      "id" : 1009,
       "form" : "likites"
     },
     "translations" : [ {
@@ -13108,7 +13199,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1003,
+      "id" : 1010,
       "form" : "kalimes"
     },
     "translations" : [ {
@@ -13121,7 +13212,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1004,
+      "id" : 1011,
       "form" : "klappis"
     },
     "translations" : [ {
@@ -13134,7 +13225,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1005,
+      "id" : 1012,
       "form" : "fiboman"
     },
     "translations" : [ {
@@ -13147,7 +13238,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1006,
+      "id" : 1013,
       "form" : "kapiles"
     },
     "translations" : [ {
@@ -13160,20 +13251,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1007,
-      "form" : "hamikes"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "葬る", "埋葬する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1008,
+      "id" : 1014,
       "form" : "talopis"
     },
     "translations" : [ {
@@ -13186,20 +13264,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1009,
-      "form" : "kedelis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "治る", "復活する", "復旧する", "元通りになる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1010,
+      "id" : 1015,
       "form" : "watokin"
     },
     "translations" : [ {
@@ -13212,7 +13277,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1011,
+      "id" : 1016,
       "form" : "watokes"
     },
     "translations" : [ {
@@ -13225,7 +13290,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1012,
+      "id" : 1017,
       "form" : "mekakes"
     },
     "translations" : [ {
@@ -13238,7 +13303,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1013,
+      "id" : 1018,
       "form" : "lepikin"
     },
     "translations" : [ {
@@ -13251,7 +13316,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1014,
+      "id" : 1019,
       "form" : "lepekes"
     },
     "translations" : [ {
@@ -13264,7 +13329,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1015,
+      "id" : 1020,
       "form" : "kitamen"
     },
     "translations" : [ {
@@ -13277,7 +13342,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1016,
+      "id" : 1021,
       "form" : "kitames"
     },
     "translations" : [ {
@@ -13290,7 +13355,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1017,
+      "id" : 1022,
       "form" : "tapakis"
     },
     "translations" : [ {
@@ -13303,7 +13368,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1018,
+      "id" : 1023,
       "form" : "watekin"
     },
     "translations" : [ {
@@ -13316,7 +13381,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1019,
+      "id" : 1024,
       "form" : "matakan"
     },
     "translations" : [ {
@@ -13329,7 +13394,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1020,
+      "id" : 1025,
       "form" : "makolon"
     },
     "translations" : [ {
@@ -13342,7 +13407,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1021,
+      "id" : 1026,
       "form" : "hetakin"
     },
     "translations" : [ {
@@ -13355,7 +13420,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1022,
+      "id" : 1027,
       "form" : "kefe;on"
     },
     "translations" : [ {
@@ -13368,7 +13433,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1023,
+      "id" : 1028,
       "form" : "fataban"
     },
     "translations" : [ {
@@ -13381,7 +13446,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1024,
+      "id" : 1029,
       "form" : "fatogon"
     },
     "translations" : [ {
@@ -13394,7 +13459,85 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1025,
+      "id" : 1030,
+      "form" : "yashuan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "春" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1031,
+      "form" : "likaban"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "聖職者", "僧", "司祭", "神父", "シャーマン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1032,
+      "form" : "kalihes"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "侮辱する", "蔑む", "悪口を言う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1033,
+      "form" : "wadatis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "深刻な", "厳しい", "ひどい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1034,
+      "form" : "kopetin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "面倒", "問題", "厄介ごと", "困難", "トラブル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1035,
+      "form" : "mlikidis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "治る", "生き返る", "復活する", "復旧する", "元通りになる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1036,
       "form" : "inhassus"
     },
     "translations" : [ {
@@ -13407,7 +13550,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1026,
+      "id" : 1037,
       "form" : "yaluupus"
     },
     "translations" : [ {
@@ -13420,7 +13563,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1027,
+      "id" : 1038,
       "form" : "shigolan"
     },
     "translations" : [ {
@@ -13433,7 +13576,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1028,
+      "id" : 1039,
       "form" : "jikiolin"
     },
     "translations" : [ {
@@ -13446,7 +13589,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1029,
+      "id" : 1040,
       "form" : "olipikon"
     },
     "translations" : [ {
@@ -13459,7 +13602,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1030,
+      "id" : 1041,
       "form" : "toleksin"
     },
     "translations" : [ {
@@ -13472,7 +13615,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1031,
+      "id" : 1042,
       "form" : "kutlesin"
     },
     "translations" : [ {
@@ -13485,7 +13628,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1032,
+      "id" : 1043,
       "form" : "bimaalan"
     },
     "translations" : [ {
@@ -13498,7 +13641,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1033,
+      "id" : 1044,
       "form" : "lukossin"
     },
     "translations" : [ {
@@ -13511,7 +13654,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1034,
+      "id" : 1045,
       "form" : "omuwatan"
     },
     "translations" : [ {
@@ -13524,7 +13667,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1035,
+      "id" : 1046,
       "form" : "kilottan"
     },
     "translations" : [ {
@@ -13537,7 +13680,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1036,
+      "id" : 1047,
       "form" : "yuupilan"
     },
     "translations" : [ {
@@ -13550,7 +13693,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1037,
+      "id" : 1048,
       "form" : "pastinan"
     },
     "translations" : [ {
@@ -13563,7 +13706,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1038,
+      "id" : 1049,
       "form" : "fatouman"
     },
     "translations" : [ {
@@ -13576,7 +13719,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1039,
+      "id" : 1050,
       "form" : "tsubalan"
     },
     "translations" : [ {
@@ -13589,7 +13732,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1040,
+      "id" : 1051,
       "form" : "abatalan"
     },
     "translations" : [ {
@@ -13602,7 +13745,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1041,
+      "id" : 1052,
       "form" : "talastan"
     },
     "translations" : [ {
@@ -13615,7 +13758,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1042,
+      "id" : 1053,
       "form" : "tohassan"
     },
     "translations" : [ {
@@ -13628,7 +13771,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1043,
+      "id" : 1054,
       "form" : "taliosan"
     },
     "translations" : [ {
@@ -13641,7 +13784,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1044,
+      "id" : 1055,
       "form" : "golasman"
     },
     "translations" : [ {
@@ -13654,7 +13797,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1045,
+      "id" : 1056,
       "form" : "olopikan"
     },
     "translations" : [ {
@@ -13667,7 +13810,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1046,
+      "id" : 1057,
       "form" : "koimekan"
     },
     "translations" : [ {
@@ -13680,7 +13823,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1047,
+      "id" : 1058,
       "form" : "tekollan"
     },
     "translations" : [ {
@@ -13693,20 +13836,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1048,
-      "form" : "kulsulan"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "社会", "文明" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1049,
+      "id" : 1059,
       "form" : "luutakan"
     },
     "translations" : [ {
@@ -13719,7 +13849,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1050,
+      "id" : 1060,
       "form" : "ulamokan"
     },
     "translations" : [ {
@@ -13732,7 +13862,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1051,
+      "id" : 1061,
       "form" : "uhasilan"
     },
     "translations" : [ {
@@ -13745,7 +13875,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1052,
+      "id" : 1062,
       "form" : "ukibenan"
     },
     "translations" : [ {
@@ -13758,7 +13888,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1053,
+      "id" : 1063,
       "form" : "utatolan"
     },
     "translations" : [ {
@@ -13771,7 +13901,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1054,
+      "id" : 1064,
       "form" : "olupikan"
     },
     "translations" : [ {
@@ -13784,7 +13914,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1055,
+      "id" : 1065,
       "form" : "banpikan"
     },
     "translations" : [ {
@@ -13797,7 +13927,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1056,
+      "id" : 1066,
       "form" : "beusilan"
     },
     "translations" : [ {
@@ -13810,7 +13940,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1057,
+      "id" : 1067,
       "form" : "lapussan"
     },
     "translations" : [ {
@@ -13823,7 +13953,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1058,
+      "id" : 1068,
       "form" : "lanuuban"
     },
     "translations" : [ {
@@ -13836,7 +13966,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1059,
+      "id" : 1069,
       "form" : "luumikan"
     },
     "translations" : [ {
@@ -13849,7 +13979,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1060,
+      "id" : 1070,
       "form" : "hatsawan"
     },
     "translations" : [ {
@@ -13862,7 +13992,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1061,
+      "id" : 1071,
       "form" : "heshawan"
     },
     "translations" : [ {
@@ -13875,7 +14005,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1062,
+      "id" : 1072,
       "form" : "kuteeman"
     },
     "translations" : [ {
@@ -13888,7 +14018,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1063,
+      "id" : 1073,
       "form" : "kuninkan"
     },
     "translations" : [ {
@@ -13904,7 +14034,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1064,
+      "id" : 1074,
       "form" : "kussolan"
     },
     "translations" : [ {
@@ -13917,7 +14047,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1065,
+      "id" : 1075,
       "form" : "kemelyan"
     },
     "translations" : [ {
@@ -13930,7 +14060,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1066,
+      "id" : 1076,
       "form" : "piniokan"
     },
     "translations" : [ {
@@ -13943,7 +14073,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1067,
+      "id" : 1077,
       "form" : "polassan"
     },
     "translations" : [ {
@@ -13956,7 +14086,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1068,
+      "id" : 1078,
       "form" : "tantalan"
     },
     "translations" : [ {
@@ -13969,7 +14099,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1069,
+      "id" : 1079,
       "form" : "teletsan"
     },
     "translations" : [ {
@@ -13982,7 +14112,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1070,
+      "id" : 1080,
       "form" : "sakiolan"
     },
     "translations" : [ {
@@ -13995,7 +14125,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1071,
+      "id" : 1081,
       "form" : "sebonkan"
     },
     "translations" : [ {
@@ -14008,7 +14138,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1072,
+      "id" : 1082,
       "form" : "shilakan"
     },
     "translations" : [ {
@@ -14021,7 +14151,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1073,
+      "id" : 1083,
       "form" : "shiwelan"
     },
     "translations" : [ {
@@ -14034,7 +14164,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1074,
+      "id" : 1084,
       "form" : "shitokan"
     },
     "translations" : [ {
@@ -14047,7 +14177,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1075,
+      "id" : 1085,
       "form" : "matsuwan"
     },
     "translations" : [ {
@@ -14060,7 +14190,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1076,
+      "id" : 1086,
       "form" : "mikondan"
     },
     "translations" : [ {
@@ -14073,7 +14203,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1077,
+      "id" : 1087,
       "form" : "mitunpan"
     },
     "translations" : [ {
@@ -14086,7 +14216,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1078,
+      "id" : 1088,
       "form" : "muwistan"
     },
     "translations" : [ {
@@ -14099,7 +14229,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1079,
+      "id" : 1089,
       "form" : "somelean"
     },
     "translations" : [ {
@@ -14112,7 +14242,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1080,
+      "id" : 1090,
       "form" : "nadestan"
     },
     "translations" : [ {
@@ -14125,7 +14255,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1081,
+      "id" : 1091,
       "form" : "napuilan"
     },
     "translations" : [ {
@@ -14138,7 +14268,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1082,
+      "id" : 1092,
       "form" : "matsawan"
     },
     "translations" : [ {
@@ -14151,7 +14281,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1083,
+      "id" : 1093,
       "form" : "meshigan"
     },
     "translations" : [ {
@@ -14164,7 +14294,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1084,
+      "id" : 1094,
       "form" : "lakyules"
     },
     "translations" : [ {
@@ -14177,7 +14307,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1085,
+      "id" : 1095,
       "form" : "nandamis"
     },
     "translations" : [ {
@@ -14190,7 +14320,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1086,
+      "id" : 1096,
       "form" : "lantanis"
     },
     "translations" : [ {
@@ -14203,7 +14333,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1087,
+      "id" : 1097,
       "form" : "lyumetis"
     },
     "translations" : [ {
@@ -14216,7 +14346,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1088,
+      "id" : 1098,
       "form" : "mipainis"
     },
     "translations" : [ {
@@ -14232,7 +14362,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1089,
+      "id" : 1099,
       "form" : "tsubamis"
     },
     "translations" : [ {
@@ -14245,7 +14375,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1090,
+      "id" : 1100,
       "form" : "hatsewes"
     },
     "translations" : [ {
@@ -14258,7 +14388,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1091,
+      "id" : 1101,
       "form" : "ikalomis"
     },
     "translations" : [ {
@@ -14271,7 +14401,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1092,
+      "id" : 1102,
       "form" : "lotankes"
     },
     "translations" : [ {
@@ -14284,7 +14414,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1093,
+      "id" : 1103,
       "form" : "lotannes"
     },
     "translations" : [ {
@@ -14297,7 +14427,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1094,
+      "id" : 1104,
       "form" : "hismites"
     },
     "translations" : [ {
@@ -14310,7 +14440,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1095,
+      "id" : 1105,
       "form" : "flandeis"
     },
     "translations" : [ {
@@ -14323,7 +14453,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1096,
+      "id" : 1106,
       "form" : "taloinen"
     },
     "translations" : [ {
@@ -14336,7 +14466,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1097,
+      "id" : 1107,
       "form" : "talottis"
     },
     "translations" : [ {
@@ -14349,7 +14479,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1098,
+      "id" : 1108,
       "form" : "teneffis"
     },
     "translations" : [ {
@@ -14365,7 +14495,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1099,
+      "id" : 1109,
       "form" : "matsawis"
     },
     "translations" : [ {
@@ -14378,7 +14508,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1100,
+      "id" : 1110,
       "form" : "lotteles"
     },
     "translations" : [ {
@@ -14391,7 +14521,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1101,
+      "id" : 1111,
       "form" : "emebeles"
     },
     "translations" : [ {
@@ -14404,7 +14534,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1102,
+      "id" : 1112,
       "form" : "matsawes"
     },
     "translations" : [ {
@@ -14417,7 +14547,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1103,
+      "id" : 1113,
       "form" : "kalolaya"
     },
     "translations" : [ {
@@ -14430,7 +14560,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1104,
+      "id" : 1114,
       "form" : "ekemales"
     },
     "translations" : [ {
@@ -14443,7 +14573,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1105,
+      "id" : 1115,
       "form" : "ikalomes"
     },
     "translations" : [ {
@@ -14456,7 +14586,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1106,
+      "id" : 1116,
       "form" : "luumikes"
     },
     "translations" : [ {
@@ -14469,7 +14599,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1107,
+      "id" : 1117,
       "form" : "afonigin"
     },
     "translations" : [ {
@@ -14482,7 +14612,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1108,
+      "id" : 1118,
       "form" : "melkonin"
     },
     "translations" : [ {
@@ -14495,7 +14625,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1109,
+      "id" : 1119,
       "form" : "faldolon"
     },
     "translations" : [ {
@@ -14508,7 +14638,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1110,
+      "id" : 1120,
       "form" : "bikoffen"
     },
     "translations" : [ {
@@ -14521,7 +14651,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1111,
+      "id" : 1121,
       "form" : "kosheman"
     },
     "translations" : [ {
@@ -14534,7 +14664,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1112,
+      "id" : 1122,
       "form" : "neglipan"
     },
     "translations" : [ {
@@ -14547,7 +14677,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1113,
+      "id" : 1123,
       "form" : "kaliplon"
     },
     "translations" : [ {
@@ -14560,7 +14690,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1114,
+      "id" : 1124,
       "form" : "platemes"
     },
     "translations" : [ {
@@ -14573,7 +14703,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1115,
+      "id" : 1125,
       "form" : "jimiklen"
     },
     "translations" : [ {
@@ -14586,7 +14716,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1116,
+      "id" : 1126,
       "form" : "ezatahon"
     },
     "translations" : [ {
@@ -14599,7 +14729,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1117,
+      "id" : 1127,
       "form" : "amajiken"
     },
     "translations" : [ {
@@ -14612,7 +14742,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1118,
+      "id" : 1128,
       "form" : "hegeshin"
     },
     "translations" : [ {
@@ -14625,7 +14755,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1119,
+      "id" : 1129,
       "form" : "lyomaten"
     },
     "translations" : [ {
@@ -14638,7 +14768,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1120,
+      "id" : 1130,
       "form" : "galmilin"
     },
     "translations" : [ {
@@ -14651,7 +14781,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1121,
+      "id" : 1131,
       "form" : "klamepis"
     },
     "translations" : [ {
@@ -14664,7 +14794,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1122,
+      "id" : 1132,
       "form" : "temachin"
     },
     "translations" : [ {
@@ -14677,7 +14807,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1123,
+      "id" : 1133,
       "form" : "hashiwin"
     },
     "translations" : [ {
@@ -14690,7 +14820,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1124,
+      "id" : 1134,
       "form" : "akitalin"
     },
     "translations" : [ {
@@ -14703,7 +14833,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1125,
+      "id" : 1135,
       "form" : "galishis"
     },
     "translations" : [ {
@@ -14716,7 +14846,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1126,
+      "id" : 1136,
       "form" : "ifesakin"
     },
     "translations" : [ {
@@ -14729,7 +14859,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1127,
+      "id" : 1137,
       "form" : "upolakas"
     },
     "translations" : [ {
@@ -14742,7 +14872,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1128,
+      "id" : 1138,
       "form" : "kwitowan"
     },
     "translations" : [ {
@@ -14755,7 +14885,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1129,
+      "id" : 1139,
       "form" : "shukulan"
     },
     "translations" : [ {
@@ -14768,7 +14898,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1130,
+      "id" : 1140,
       "form" : "shlippen"
     },
     "translations" : [ {
@@ -14781,7 +14911,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1131,
+      "id" : 1141,
       "form" : "mashiles"
     },
     "translations" : [ {
@@ -14794,7 +14924,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1132,
+      "id" : 1142,
       "form" : "apojikin"
     },
     "translations" : [ {
@@ -14807,7 +14937,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1133,
+      "id" : 1143,
       "form" : "klamifin"
     },
     "translations" : [ {
@@ -14820,7 +14950,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1134,
+      "id" : 1144,
       "form" : "klamajin"
     },
     "translations" : [ {
@@ -14833,7 +14963,20 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1135,
+      "id" : 1145,
+      "form" : "tsabolis"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "頑固だ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1146,
       "form" : "enteolain"
     },
     "translations" : [ {
@@ -14846,7 +14989,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1136,
+      "id" : 1147,
       "form" : "kolomekin"
     },
     "translations" : [ {
@@ -14859,7 +15002,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1137,
+      "id" : 1148,
       "form" : "majibalin"
     },
     "translations" : [ {
@@ -14872,7 +15015,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1138,
+      "id" : 1149,
       "form" : "hamilamin"
     },
     "translations" : [ {
@@ -14885,7 +15028,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1139,
+      "id" : 1150,
       "form" : "nepulikun"
     },
     "translations" : [ {
@@ -14898,7 +15041,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1140,
+      "id" : 1151,
       "form" : "hasawomin"
     },
     "translations" : [ {
@@ -14911,7 +15054,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1141,
+      "id" : 1152,
       "form" : "hataminen"
     },
     "translations" : [ {
@@ -14924,7 +15067,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1142,
+      "id" : 1153,
       "form" : "nozelamin"
     },
     "translations" : [ {
@@ -14937,7 +15080,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1143,
+      "id" : 1154,
       "form" : "lyuumanan"
     },
     "translations" : [ {
@@ -14950,7 +15093,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1144,
+      "id" : 1155,
       "form" : "walotanan"
     },
     "translations" : [ {
@@ -14963,7 +15106,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1145,
+      "id" : 1156,
       "form" : "walalatan"
     },
     "translations" : [ {
@@ -14976,7 +15119,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1146,
+      "id" : 1157,
       "form" : "obulastan"
     },
     "translations" : [ {
@@ -14989,7 +15132,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1147,
+      "id" : 1158,
       "form" : "piboniwan"
     },
     "translations" : [ {
@@ -15002,7 +15145,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1148,
+      "id" : 1159,
       "form" : "jibokolan"
     },
     "translations" : [ {
@@ -15015,7 +15158,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1149,
+      "id" : 1160,
       "form" : "tobokolan"
     },
     "translations" : [ {
@@ -15028,7 +15171,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1150,
+      "id" : 1161,
       "form" : "lidosalan"
     },
     "translations" : [ {
@@ -15041,7 +15184,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1151,
+      "id" : 1162,
       "form" : "fatohawan"
     },
     "translations" : [ {
@@ -15054,7 +15197,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1152,
+      "id" : 1163,
       "form" : "fikoloman"
     },
     "translations" : [ {
@@ -15067,7 +15210,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1153,
+      "id" : 1164,
       "form" : "apolassan"
     },
     "translations" : [ {
@@ -15080,7 +15223,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1154,
+      "id" : 1165,
       "form" : "ipolassan"
     },
     "translations" : [ {
@@ -15093,7 +15236,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1155,
+      "id" : 1166,
       "form" : "epolassan"
     },
     "translations" : [ {
@@ -15106,7 +15249,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1156,
+      "id" : 1167,
       "form" : "medewalan"
     },
     "translations" : [ {
@@ -15119,7 +15262,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1157,
+      "id" : 1168,
       "form" : "lipomawan"
     },
     "translations" : [ {
@@ -15132,7 +15275,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1158,
+      "id" : 1169,
       "form" : "ubiukulan"
     },
     "translations" : [ {
@@ -15145,20 +15288,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1159,
-      "form" : "yissenman"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "春" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1160,
+      "id" : 1170,
       "form" : "gulimiwan"
     },
     "translations" : [ {
@@ -15171,7 +15301,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1161,
+      "id" : 1171,
       "form" : "gehasuman"
     },
     "translations" : [ {
@@ -15184,7 +15314,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1162,
+      "id" : 1172,
       "form" : "jenekilan"
     },
     "translations" : [ {
@@ -15197,7 +15327,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1163,
+      "id" : 1173,
       "form" : "lutasinan"
     },
     "translations" : [ {
@@ -15210,7 +15340,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1164,
+      "id" : 1174,
       "form" : "lepolukan"
     },
     "translations" : [ {
@@ -15223,7 +15353,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1165,
+      "id" : 1175,
       "form" : "wawatelan"
     },
     "translations" : [ {
@@ -15236,7 +15366,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1166,
+      "id" : 1176,
       "form" : "halubakan"
     },
     "translations" : [ {
@@ -15249,7 +15379,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1167,
+      "id" : 1177,
       "form" : "hundeigan"
     },
     "translations" : [ {
@@ -15265,7 +15395,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1168,
+      "id" : 1178,
       "form" : "kiasankan"
     },
     "translations" : [ {
@@ -15278,7 +15408,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1169,
+      "id" : 1179,
       "form" : "kimalokan"
     },
     "translations" : [ {
@@ -15291,7 +15421,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1170,
+      "id" : 1180,
       "form" : "pisatokan"
     },
     "translations" : [ {
@@ -15304,7 +15434,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1171,
+      "id" : 1181,
       "form" : "kehenelan"
     },
     "translations" : [ {
@@ -15317,7 +15447,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1172,
+      "id" : 1182,
       "form" : "tatalatan"
     },
     "translations" : [ {
@@ -15330,7 +15460,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1173,
+      "id" : 1183,
       "form" : "tokomatan"
     },
     "translations" : [ {
@@ -15343,7 +15473,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1174,
+      "id" : 1184,
       "form" : "salibakan"
     },
     "translations" : [ {
@@ -15356,7 +15486,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1175,
+      "id" : 1185,
       "form" : "saluminan"
     },
     "translations" : [ {
@@ -15369,7 +15499,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1176,
+      "id" : 1186,
       "form" : "denolenan"
     },
     "translations" : [ {
@@ -15382,7 +15512,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1177,
+      "id" : 1187,
       "form" : "matatolan"
     },
     "translations" : [ {
@@ -15395,7 +15525,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1178,
+      "id" : 1188,
       "form" : "mikkenyan"
     },
     "translations" : [ {
@@ -15408,7 +15538,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1179,
+      "id" : 1189,
       "form" : "muwatelan"
     },
     "translations" : [ {
@@ -15421,7 +15551,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1180,
+      "id" : 1190,
       "form" : "medazalan"
     },
     "translations" : [ {
@@ -15434,7 +15564,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1181,
+      "id" : 1191,
       "form" : "mekolazan"
     },
     "translations" : [ {
@@ -15447,7 +15577,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1182,
+      "id" : 1192,
       "form" : "kotaloman"
     },
     "translations" : [ {
@@ -15460,7 +15590,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1183,
+      "id" : 1193,
       "form" : "lomotanan"
     },
     "translations" : [ {
@@ -15473,7 +15603,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1184,
+      "id" : 1194,
       "form" : "lomomekan"
     },
     "translations" : [ {
@@ -15486,7 +15616,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1185,
+      "id" : 1195,
       "form" : "medapayan"
     },
     "translations" : [ {
@@ -15499,7 +15629,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1186,
+      "id" : 1196,
       "form" : "talanapan"
     },
     "translations" : [ {
@@ -15512,7 +15642,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1187,
+      "id" : 1197,
       "form" : "talahazan"
     },
     "translations" : [ {
@@ -15525,7 +15655,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1188,
+      "id" : 1198,
       "form" : "pikabiban"
     },
     "translations" : [ {
@@ -15538,7 +15668,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1189,
+      "id" : 1199,
       "form" : "pikapedan"
     },
     "translations" : [ {
@@ -15551,7 +15681,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1190,
+      "id" : 1200,
       "form" : "hawanawan"
     },
     "translations" : [ {
@@ -15564,7 +15694,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1191,
+      "id" : 1201,
       "form" : "benetelas"
     },
     "translations" : [ {
@@ -15577,7 +15707,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1192,
+      "id" : 1202,
       "form" : "ubokyules"
     },
     "translations" : [ {
@@ -15590,7 +15720,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1193,
+      "id" : 1203,
       "form" : "monolotis"
     },
     "translations" : [ {
@@ -15603,7 +15733,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1194,
+      "id" : 1204,
       "form" : "hielellis"
     },
     "translations" : [ {
@@ -15616,7 +15746,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1195,
+      "id" : 1205,
       "form" : "chibitsis"
     },
     "translations" : [ {
@@ -15629,7 +15759,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1196,
+      "id" : 1206,
       "form" : "tsepettis"
     },
     "translations" : [ {
@@ -15642,7 +15772,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1197,
+      "id" : 1207,
       "form" : "olonesses"
     },
     "translations" : [ {
@@ -15655,7 +15785,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1198,
+      "id" : 1208,
       "form" : "nisetelis"
     },
     "translations" : [ {
@@ -15668,7 +15798,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1199,
+      "id" : 1209,
       "form" : "nisowolis"
     },
     "translations" : [ {
@@ -15681,7 +15811,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1200,
+      "id" : 1210,
       "form" : "telekemes"
     },
     "translations" : [ {
@@ -15694,7 +15824,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1201,
+      "id" : 1211,
       "form" : "likaneles"
     },
     "translations" : [ {
@@ -15707,7 +15837,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1202,
+      "id" : 1212,
       "form" : "oloppanis"
     },
     "translations" : [ {
@@ -15720,7 +15850,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1203,
+      "id" : 1213,
       "form" : "lutasines"
     },
     "translations" : [ {
@@ -15733,7 +15863,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1204,
+      "id" : 1214,
       "form" : "lumokalis"
     },
     "translations" : [ {
@@ -15746,7 +15876,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1205,
+      "id" : 1215,
       "form" : "kasimitis"
     },
     "translations" : [ {
@@ -15759,7 +15889,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1206,
+      "id" : 1216,
       "form" : "kimalokes"
     },
     "translations" : [ {
@@ -15772,7 +15902,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1207,
+      "id" : 1217,
       "form" : "tokokimis"
     },
     "translations" : [ {
@@ -15785,7 +15915,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1208,
+      "id" : 1218,
       "form" : "keneaegis"
     },
     "translations" : [ {
@@ -15798,7 +15928,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1209,
+      "id" : 1219,
       "form" : "tokomatis"
     },
     "translations" : [ {
@@ -15811,7 +15941,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1210,
+      "id" : 1220,
       "form" : "ezowossis"
     },
     "translations" : [ {
@@ -15824,7 +15954,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1211,
+      "id" : 1221,
       "form" : "monakimes"
     },
     "translations" : [ {
@@ -15837,7 +15967,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1212,
+      "id" : 1222,
       "form" : "ezenegles"
     },
     "translations" : [ {
@@ -15850,7 +15980,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1213,
+      "id" : 1223,
       "form" : "basukuwon"
     },
     "translations" : [ {
@@ -15863,7 +15993,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1214,
+      "id" : 1224,
       "form" : "italanken"
     },
     "translations" : [ {
@@ -15876,7 +16006,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1215,
+      "id" : 1225,
       "form" : "halumikes"
     },
     "translations" : [ {
@@ -15889,7 +16019,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1216,
+      "id" : 1226,
       "form" : "lafagolin"
     },
     "translations" : [ {
@@ -15902,7 +16032,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1217,
+      "id" : 1227,
       "form" : "diliniwin"
     },
     "translations" : [ {
@@ -15915,7 +16045,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1218,
+      "id" : 1228,
       "form" : "mewetelan"
     },
     "translations" : [ {
@@ -15928,7 +16058,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1219,
+      "id" : 1229,
       "form" : "sklitawes"
     },
     "translations" : [ {
@@ -15941,7 +16071,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1220,
+      "id" : 1230,
       "form" : "zomikitan"
     },
     "translations" : [ {
@@ -15954,7 +16084,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1221,
+      "id" : 1231,
       "form" : "afisaknan"
     },
     "translations" : [ {
@@ -15967,7 +16097,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1222,
+      "id" : 1232,
       "form" : "kalonibin"
     },
     "translations" : [ {
@@ -15980,7 +16110,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1223,
+      "id" : 1233,
       "form" : "halapamin"
     },
     "translations" : [ {
@@ -15993,7 +16123,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1224,
+      "id" : 1234,
       "form" : "ezimiklin"
     },
     "translations" : [ {
@@ -16006,7 +16136,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1225,
+      "id" : 1235,
       "form" : "metelokin"
     },
     "translations" : [ {
@@ -16019,7 +16149,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1226,
+      "id" : 1236,
       "form" : "kotahetun"
     },
     "translations" : [ {
@@ -16032,7 +16162,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1227,
+      "id" : 1237,
       "form" : "komatomin"
     },
     "translations" : [ {
@@ -16045,7 +16175,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1228,
+      "id" : 1238,
       "form" : "kasimitan"
     },
     "translations" : [ {
@@ -16058,7 +16188,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1229,
+      "id" : 1239,
       "form" : "estakekan"
     },
     "translations" : [ {
@@ -16071,7 +16201,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1230,
+      "id" : 1240,
       "form" : "kulipamin"
     },
     "translations" : [ {
@@ -16084,7 +16214,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1231,
+      "id" : 1241,
       "form" : "hassalesan"
     },
     "translations" : [ {
@@ -16097,7 +16227,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1232,
+      "id" : 1242,
       "form" : "kushalboin"
     },
     "translations" : [ {
@@ -16110,7 +16240,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1233,
+      "id" : 1243,
       "form" : "pikodemian"
     },
     "translations" : [ {
@@ -16123,7 +16253,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1234,
+      "id" : 1244,
       "form" : "plakahasin"
     },
     "translations" : [ {
@@ -16136,7 +16266,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1235,
+      "id" : 1245,
       "form" : "aibonaitan"
     },
     "translations" : [ {
@@ -16149,7 +16279,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1236,
+      "id" : 1246,
       "form" : "kiimajimin"
     },
     "translations" : [ {
@@ -16162,7 +16292,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1237,
+      "id" : 1247,
       "form" : "shikonukan"
     },
     "translations" : [ {
@@ -16175,7 +16305,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1238,
+      "id" : 1248,
       "form" : "atowodenan"
     },
     "translations" : [ {
@@ -16188,7 +16318,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1239,
+      "id" : 1249,
       "form" : "tanatonban"
     },
     "translations" : [ {
@@ -16201,7 +16331,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1240,
+      "id" : 1250,
       "form" : "upulakutan"
     },
     "translations" : [ {
@@ -16214,7 +16344,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1241,
+      "id" : 1251,
       "form" : "heblimikan"
     },
     "translations" : [ {
@@ -16227,7 +16357,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1242,
+      "id" : 1252,
       "form" : "okosadohan"
     },
     "translations" : [ {
@@ -16240,7 +16370,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1243,
+      "id" : 1253,
       "form" : "ehimalasan"
     },
     "translations" : [ {
@@ -16253,7 +16383,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1244,
+      "id" : 1254,
       "form" : "yomatsuwan"
     },
     "translations" : [ {
@@ -16266,7 +16396,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1245,
+      "id" : 1255,
       "form" : "lipikessan"
     },
     "translations" : [ {
@@ -16279,7 +16409,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1246,
+      "id" : 1256,
       "form" : "hanputelan"
     },
     "translations" : [ {
@@ -16292,7 +16422,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1247,
+      "id" : 1257,
       "form" : "henkimelan"
     },
     "translations" : [ {
@@ -16305,7 +16435,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1248,
+      "id" : 1258,
       "form" : "kaluutopan"
     },
     "translations" : [ {
@@ -16318,7 +16448,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1249,
+      "id" : 1259,
       "form" : "kesoluutan"
     },
     "translations" : [ {
@@ -16331,7 +16461,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1250,
+      "id" : 1260,
       "form" : "konkidelan"
     },
     "translations" : [ {
@@ -16344,7 +16474,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1251,
+      "id" : 1261,
       "form" : "tabodeigan"
     },
     "translations" : [ {
@@ -16357,7 +16487,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1252,
+      "id" : 1262,
       "form" : "tanokuolan"
     },
     "translations" : [ {
@@ -16370,7 +16500,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1253,
+      "id" : 1263,
       "form" : "saluutopan"
     },
     "translations" : [ {
@@ -16383,7 +16513,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1254,
+      "id" : 1264,
       "form" : "sanohanpan"
     },
     "translations" : [ {
@@ -16396,7 +16526,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1255,
+      "id" : 1265,
       "form" : "mawantalan"
     },
     "translations" : [ {
@@ -16409,7 +16539,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1256,
+      "id" : 1266,
       "form" : "miklogelan"
     },
     "translations" : [ {
@@ -16422,7 +16552,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1257,
+      "id" : 1267,
       "form" : "okulazalan"
     },
     "translations" : [ {
@@ -16435,7 +16565,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1258,
+      "id" : 1268,
       "form" : "hudeilagan"
     },
     "translations" : [ {
@@ -16448,7 +16578,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1259,
+      "id" : 1269,
       "form" : "myisowelis"
     },
     "translations" : [ {
@@ -16461,7 +16591,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1260,
+      "id" : 1270,
       "form" : "wamontales"
     },
     "translations" : [ {
@@ -16477,7 +16607,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1261,
+      "id" : 1271,
       "form" : "kiyuutopis"
     },
     "translations" : [ {
@@ -16490,7 +16620,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1262,
+      "id" : 1272,
       "form" : "aloboganin"
     },
     "translations" : [ {
@@ -16503,7 +16633,20 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1263,
+      "id" : 1273,
+      "form" : "kuliekatin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "灯台" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1274,
       "form" : "klowedlenen"
     },
     "translations" : [ {
@@ -16516,7 +16659,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1264,
+      "id" : 1275,
       "form" : "hakatilaman"
     },
     "translations" : [ {
@@ -16529,7 +16672,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1265,
+      "id" : 1276,
       "form" : "natowobetan"
     },
     "translations" : [ {
@@ -16542,7 +16685,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1266,
+      "id" : 1277,
       "form" : "amatsuwanan"
     },
     "translations" : [ {
@@ -16555,7 +16698,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1267,
+      "id" : 1278,
       "form" : "felemedelan"
     },
     "translations" : [ {
@@ -16568,7 +16711,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1268,
+      "id" : 1279,
       "form" : "tokomatalan"
     },
     "translations" : [ {
@@ -16581,7 +16724,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1269,
+      "id" : 1280,
       "form" : "nikoshielan"
     },
     "translations" : [ {
@@ -16594,7 +16737,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1270,
+      "id" : 1281,
       "form" : "klaptisowen"
     },
     "translations" : [ {
@@ -16607,7 +16750,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1271,
+      "id" : 1282,
       "form" : "lamikkenyan"
     },
     "translations" : [ {
@@ -16620,7 +16763,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1272,
+      "id" : 1283,
       "form" : "golitelames"
     },
     "translations" : [ {
@@ -16633,7 +16776,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1273,
+      "id" : 1284,
       "form" : "homezaniwin"
     },
     "translations" : [ {
@@ -16646,7 +16789,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1274,
+      "id" : 1285,
       "form" : "blikohedeen"
     },
     "translations" : [ {
@@ -16659,7 +16802,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1275,
+      "id" : 1286,
       "form" : "chaipomeulin"
     },
     "translations" : [ {
@@ -16672,7 +16815,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1276,
+      "id" : 1287,
       "form" : "maputoipolan"
     },
     "translations" : [ {
@@ -16685,7 +16828,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1277,
+      "id" : 1288,
       "form" : "pikoluutakan"
     },
     "translations" : [ {
@@ -16698,7 +16841,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1278,
+      "id" : 1289,
       "form" : "deigosabayan"
     },
     "translations" : [ {
@@ -16711,7 +16854,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1279,
+      "id" : 1290,
       "form" : "towamilassan"
     },
     "translations" : [ {
@@ -16724,7 +16867,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1280,
+      "id" : 1291,
       "form" : "kulikameklon"
     },
     "translations" : [ {
@@ -16737,7 +16880,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1281,
+      "id" : 1292,
       "form" : "gasheplooman"
     },
     "translations" : [ {
@@ -16750,7 +16893,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1282,
+      "id" : 1293,
       "form" : "tanatonbikan"
     },
     "translations" : [ {
@@ -16763,7 +16906,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1283,
+      "id" : 1294,
       "form" : "dipijikaazan"
     },
     "translations" : [ {
@@ -16776,7 +16919,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1284,
+      "id" : 1295,
       "form" : "shitokoukulan"
     },
     "translations" : [ {
@@ -16789,7 +16932,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1285,
+      "id" : 1296,
       "form" : "mikloluutakan"
     },
     "translations" : [ {
@@ -16802,7 +16945,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1286,
+      "id" : 1297,
       "form" : "shimotsukayan"
     },
     "translations" : [ {
@@ -16815,7 +16958,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 1287,
+      "id" : 1298,
       "form" : "shitokowalalatan"
     },
     "translations" : [ {

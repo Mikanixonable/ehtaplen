@@ -1,0 +1,198 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2023, 8030
+UComments: "2023-1-9: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 750
+Descent: 250
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 316 269103086 32074]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1673269574
+ModificationTime: 1673301209
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 984348 37 15
+BeginPrivate: 0
+EndPrivate
+BeginChars: 1114112 12
+
+StartChar: uF0600
+Encoding: 984576 984576 0
+Width: 200
+Flags: W
+HStem: -0 21G<50 150>
+VStem: 50 100<0 500>
+LayerCount: 2
+Fore
+SplineSet
+50 -0 m 1
+ 50 500 l 1
+ 150 500 l 1
+ 150 -0 l 1
+ 50 -0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uF0601
+Encoding: 984577 984577 1
+Width: 450
+Flags: W
+HStem: -0 100<184.592 375>
+LayerCount: 2
+Fore
+SplineSet
+200 450 m 1
+ 296.107421875 422.373046875 l 1
+ 184.591796875 100 l 1
+ 375 100 l 1
+ 400 -0 l 1
+ 150 -0 l 1
+ 100 -0 l 1
+ 50 -0 l 1
+ 200 450 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uF0602
+Encoding: 984578 984578 2
+Width: 450
+Flags: W
+HStem: 200 100<50 400>
+LayerCount: 2
+Fore
+SplineSet
+50 200 m 1
+ 50 300 l 1
+ 400 300 l 1
+ 400 200 l 1
+ 50 200 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uF0603
+Encoding: 984579 984579 3
+Width: 450
+Flags: W
+HStem: -0 100<0 600>
+LayerCount: 2
+Fore
+SplineSet
+0 -0 m 1
+ 0 100 l 1
+ 600 100 l 1
+ 600 -0 l 1
+ 0 -0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uF0604
+Encoding: 984580 984580 4
+Width: 450
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uF0605
+Encoding: 984581 984581 5
+Width: 450
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uF0606
+Encoding: 984582 984582 6
+Width: 450
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uF0607
+Encoding: 984583 984583 7
+Width: 450
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uF0608
+Encoding: 984584 984584 8
+Width: 450
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uF0609
+Encoding: 984585 984585 9
+Width: 450
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uF060A
+Encoding: 984586 984586 10
+Width: 450
+VWidth: 800
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uF060B
+Encoding: 984587 984587 11
+Width: 450
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+EndChars
+EndSplineFont
