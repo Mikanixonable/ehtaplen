@@ -11,7 +11,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="ti.svg"
+   sodipodi:docname="ho.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,15 +28,15 @@
      inkscape:document-units="px"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="0.914906"
-     inkscape:cx="337.19311"
-     inkscape:cy="497.31885"
-     inkscape:window-width="3840"
-     inkscape:window-height="2054"
-     inkscape:window-x="2293"
-     inkscape:window-y="-11"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="116.67262"
+     inkscape:cy="678.82251"
+     inkscape:window-width="2304"
+     inkscape:window-height="1190"
+     inkscape:window-x="-11"
+     inkscape:window-y="2027"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="svg5">
     <inkscape:grid
        type="xygrid"
        id="grid132"
@@ -119,12 +119,11 @@
        lpeversion="0" />
   </defs>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2">
+     id="path1138"
+     transform="rotate(180,200,740)">
     <path
        style="color:#000000;fill:#000000;stroke-miterlimit:7;stroke-dashoffset:1.65;-inkscape-stroke:none"
-       d="M 71.099609,479.03518 2.9667968,520.96486 150.0664,760.00002 2.9667968,999.03518 71.099609,1040.9648 219.38476,800.00002 H 397.0332 v -80 H 219.38476 Z"
-       id="path4962" />
+       d="M 160,480 V 745.51758 L -30.728516,974.39258 30.728516,1025.6074 160,870.48242 V 1000 h 80 V 870.48242 L 369.27148,1025.6074 430.72852,974.39258 240,745.51758 V 480 Z"
+       id="path1145" />
   </g>
 </svg>
